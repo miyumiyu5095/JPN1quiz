@@ -1,0 +1,5012 @@
+{
+  "totalCorrect": 0,
+  "totalAttempts": 0,
+  "wrongAnswers": {},
+  "starredWords": {},
+  "quizOrder": [],
+  "quizPos": 0,
+  "sessionCorrect": 0,
+  "sessionWrong": 0,
+  "words": [
+    {
+      "word": "明かす",
+      "yomi": "あかす",
+      "pos": "動詞",
+      "meaning": "밝히다, 털어놓다",
+      "category": "N1 동사",
+      "example": "彼は長年の秘密をついに明かした。",
+      "exampleKo": "그는 오랜 비밀을 드디어 털어놓았다.",
+      "meaningEn": "to reveal, to disclose"
+    },
+    {
+      "word": "商う",
+      "yomi": "あきなう",
+      "pos": "動詞",
+      "meaning": "장사하다",
+      "category": "N1 동사",
+      "example": "祖父は魚を商って生計を立てていた。",
+      "exampleKo": "할아버지는 생선을 팔아 생계를 꾸렸다.",
+      "meaningEn": "to trade, to deal in"
+    },
+    {
+      "word": "値する",
+      "yomi": "あたいする",
+      "pos": "動詞",
+      "meaning": "가치가 있다",
+      "category": "N1 동사",
+      "example": "この作品は高く評価されるに値する。",
+      "exampleKo": "이 작품은 높이 평가받을 가치가 있다.",
+      "meaningEn": "to be worth, to deserve"
+    },
+    {
+      "word": "歩む",
+      "yomi": "あゆむ",
+      "pos": "動詞",
+      "meaning": "걷다, 나아가다",
+      "category": "N1 동사",
+      "example": "彼女は自分の信念に従って人生を歩んだ。",
+      "exampleKo": "그녀는 자신의 신념에 따라 인생을 걸어왔다.",
+      "meaningEn": "to walk, to advance"
+    },
+    {
+      "word": "言い張る",
+      "yomi": "いいはる",
+      "pos": "動詞",
+      "meaning": "우겨대다, 주장하다",
+      "category": "N1 동사",
+      "example": "彼は自分が正しいと言い張った。",
+      "exampleKo": "그는 자신이 옳다고 우겨댔다.",
+      "meaningEn": "to insist, to assert"
+    },
+    {
+      "word": "労る",
+      "yomi": "いたわる",
+      "pos": "動詞",
+      "meaning": "위로하다, 노고를 치하하다",
+      "category": "N1 동사",
+      "example": "疲れた同僚を労る言葉をかけた。",
+      "exampleKo": "지친 동료를 위로하는 말을 건넸다.",
+      "meaningEn": "to care for, to appreciate"
+    },
+    {
+      "word": "挑む",
+      "yomi": "いどむ",
+      "pos": "動詞",
+      "meaning": "도전하다",
+      "category": "N1 동사",
+      "example": "彼は世界チャンピオンに挑んだ。",
+      "exampleKo": "그는 세계 챔피언에게 도전했다.",
+      "meaningEn": "to challenge, to take on"
+    },
+    {
+      "word": "否む",
+      "yomi": "いなむ",
+      "pos": "動詞",
+      "meaning": "부정하다, 거부하다",
+      "category": "N1 동사",
+      "example": "容疑者は事実を否んで沈黙を保った。",
+      "exampleKo": "용의자는 사실을 부정하며 침묵을 지켰다.",
+      "meaningEn": "to deny, to refuse"
+    },
+    {
+      "word": "威張る",
+      "yomi": "いばる",
+      "pos": "動詞",
+      "meaning": "뽐내다, 으스대다",
+      "category": "N1 동사",
+      "example": "彼は少し成功しただけで威張るようになった。",
+      "exampleKo": "그는 조금 성공했을 뿐인데 으스대게 되었다.",
+      "meaningEn": "to brag, to be arrogant"
+    },
+    {
+      "word": "戒める",
+      "yomi": "いましめる",
+      "pos": "動詞",
+      "meaning": "훈계하다, 경고하다",
+      "category": "N1 동사",
+      "example": "親は子供を戒め、礼儀を教えた。",
+      "exampleKo": "부모는 아이를 훈계하며 예의를 가르쳤다.",
+      "meaningEn": "to admonish, to warn"
+    },
+    {
+      "word": "浮かれる",
+      "yomi": "うかれる",
+      "pos": "動詞",
+      "meaning": "들뜨다, 신나다",
+      "category": "N1 동사",
+      "example": "合格発表を聞いて浮かれてしまった。",
+      "exampleKo": "합격 발표를 듣고 들떠버렸다.",
+      "meaningEn": "to be elated, to be excited"
+    },
+    {
+      "word": "打ち切る",
+      "yomi": "うちきる",
+      "pos": "動詞",
+      "meaning": "중지하다",
+      "category": "N1 동사",
+      "example": "番組の視聴率が低下し、放送が打ち切られた。",
+      "exampleKo": "프로그램 시청률이 하락하여 방송이 중지되었다.",
+      "meaningEn": "to discontinue, to cut off"
+    },
+    {
+      "word": "打ち込む",
+      "yomi": "うちこむ",
+      "pos": "動詞",
+      "meaning": "몰두하다, 몰입하다",
+      "category": "N1 동사",
+      "example": "彼は研究に打ち込んで成果を上げた。",
+      "exampleKo": "그는 연구에 몰두하여 성과를 올렸다.",
+      "meaningEn": "to devote oneself to"
+    },
+    {
+      "word": "訴える",
+      "yomi": "うったえる",
+      "pos": "動詞",
+      "meaning": "호소하다",
+      "category": "N1 동사",
+      "example": "市民は環境問題の深刻さを社会に訴えた。",
+      "exampleKo": "시민들은 환경 문제의 심각성을 사회에 호소했다.",
+      "meaningEn": "to appeal, to sue"
+    },
+    {
+      "word": "促す",
+      "yomi": "うながす",
+      "pos": "動詞",
+      "meaning": "촉구하다, 재촉하다",
+      "category": "N1 동사",
+      "example": "政府は企業に省エネを促す通達を出した。",
+      "exampleKo": "정부는 기업에 에너지 절약을 촉구하는 통달을 냈다.",
+      "meaningEn": "to urge, to prompt"
+    },
+    {
+      "word": "敬う",
+      "yomi": "うやまう",
+      "pos": "動詞",
+      "meaning": "공경하다",
+      "category": "N1 동사",
+      "example": "人は年長者を敬う心を大切にすべきだ。",
+      "exampleKo": "사람은 연장자를 공경하는 마음을 소중히 해야 한다.",
+      "meaningEn": "to respect, to revere"
+    },
+    {
+      "word": "恨む",
+      "yomi": "うらむ",
+      "pos": "動詞",
+      "meaning": "원망하다",
+      "category": "N1 동사",
+      "example": "彼は裏切った友人を長年恨んでいた。",
+      "exampleKo": "그는 배신한 친구를 오랫동안 원망했다.",
+      "meaningEn": "to resent, to bear a grudge"
+    },
+    {
+      "word": "潤う",
+      "yomi": "うるおう",
+      "pos": "動詞",
+      "meaning": "축축해지다, 윤택해지다",
+      "category": "N1 동사",
+      "example": "久しぶりの雨で大地が潤った。",
+      "exampleKo": "오랜만의 비로 대지가 촉촉해졌다.",
+      "meaningEn": "to be moistened, to prosper"
+    },
+    {
+      "word": "拝む",
+      "yomi": "おがむ",
+      "pos": "動詞",
+      "meaning": "절하다, 경배하다",
+      "category": "N1 동사",
+      "example": "初日の出を拝むために山頂へ向かった。",
+      "exampleKo": "새해 첫 해돋이를 경배하기 위해 산 정상으로 향했다.",
+      "meaningEn": "to worship, to pray"
+    },
+    {
+      "word": "怠る",
+      "yomi": "おこたる",
+      "pos": "動詞",
+      "meaning": "게을리하다, 소홀히 하다",
+      "category": "N1 동사",
+      "example": "準備を怠ったため、試験で失敗した。",
+      "exampleKo": "준비를 게을리했기 때문에 시험에서 실패했다.",
+      "meaningEn": "to neglect, to be lazy about"
+    },
+    {
+      "word": "襲う",
+      "yomi": "おそう",
+      "pos": "動詞",
+      "meaning": "덮치다, 습격하다",
+      "category": "N1 동사",
+      "example": "突然の嵐が海岸沿いの町を襲った。",
+      "exampleKo": "갑작스러운 폭풍이 해안가 마을을 습격했다.",
+      "meaningEn": "to attack, to assault"
+    },
+    {
+      "word": "陥る",
+      "yomi": "おちいる",
+      "pos": "動詞",
+      "meaning": "나쁜 상황에 빠지다",
+      "category": "N1 동사",
+      "example": "会社は経営危機に陥ってしまった。",
+      "exampleKo": "회사는 경영 위기에 빠지고 말았다.",
+      "meaningEn": "to fall into, to be trapped"
+    },
+    {
+      "word": "劣る",
+      "yomi": "おとる",
+      "pos": "動詞",
+      "meaning": "뒤떨어지다, 뒤지다",
+      "category": "N1 동사",
+      "example": "彼の技術は熟練者に劣るが、向上心はある。",
+      "exampleKo": "그의 기술은 숙련자에 뒤지지만 향상심은 있다.",
+      "meaningEn": "to be inferior, to fall behind"
+    },
+    {
+      "word": "衰える",
+      "yomi": "おとろえる",
+      "pos": "動詞",
+      "meaning": "쇠약해지다",
+      "category": "N1 동사",
+      "example": "年を取るにつれて体力が衰えてきた。",
+      "exampleKo": "나이가 들면서 체력이 쇠약해졌다.",
+      "meaningEn": "to weaken, to decline"
+    },
+    {
+      "word": "帯びる",
+      "yomi": "おびる",
+      "pos": "動詞",
+      "meaning": "띠를 띠다, 성질·경향을 띠다",
+      "category": "N1 동사",
+      "example": "彼女の声は緊張の色を帯びていた。",
+      "exampleKo": "그녀의 목소리는 긴장의 기색을 띠고 있었다.",
+      "meaningEn": "to have, to take on (a quality)"
+    },
+    {
+      "word": "思い返す",
+      "yomi": "おもいかえす",
+      "pos": "動詞",
+      "meaning": "돌아보다",
+      "category": "N1 동사",
+      "example": "あの日のことを思い返すと胸が痛む。",
+      "exampleKo": "그날의 일을 돌아보면 가슴이 아프다.",
+      "meaningEn": "to reconsider, to look back on"
+    },
+    {
+      "word": "思い詰める",
+      "yomi": "おもいつめる",
+      "pos": "動詞",
+      "meaning": "골몰하다",
+      "category": "N1 동사",
+      "example": "彼女は一人で問題を思い詰めて追い詰められた。",
+      "exampleKo": "그녀는 혼자 문제에 골몰하다 막다른 곳에 몰렸다.",
+      "meaningEn": "to brood over, to be obsessed"
+    },
+    {
+      "word": "及ぼす",
+      "yomi": "およぼす",
+      "pos": "動詞",
+      "meaning": "영향을 미치다",
+      "category": "N1 동사",
+      "example": "その決定は多くの人々に影響を及ぼした。",
+      "exampleKo": "그 결정은 많은 사람들에게 영향을 미쳤다.",
+      "meaningEn": "to exert, to have an effect on"
+    },
+    {
+      "word": "顧みる",
+      "yomi": "かえりみる",
+      "pos": "動詞",
+      "meaning": "돌아보다, 회고하다",
+      "category": "N1 동사",
+      "example": "自らの過去を顧みて反省することが大切だ。",
+      "exampleKo": "스스로의 과거를 돌아보고 반성하는 것이 중요하다.",
+      "meaningEn": "to look back on, to reflect"
+    },
+    {
+      "word": "省みる",
+      "yomi": "かえりみる",
+      "pos": "動詞",
+      "meaning": "반성하다",
+      "category": "N1 동사",
+      "example": "自分の行いを省みて改善点を探した。",
+      "exampleKo": "자신의 행동을 반성하며 개선점을 찾았다.",
+      "meaningEn": "to reflect on, to reconsider"
+    },
+    {
+      "word": "掲げる",
+      "yomi": "かかげる",
+      "pos": "動詞",
+      "meaning": "내걸다, 내세우다",
+      "category": "N1 동사",
+      "example": "チームは高い目標を掲げて練習に励んだ。",
+      "exampleKo": "팀은 높은 목표를 내걸고 연습에 힘썼다.",
+      "meaningEn": "to raise, to hold up, to advocate"
+    },
+    {
+      "word": "稼ぐ",
+      "yomi": "かせぐ",
+      "pos": "動詞",
+      "meaning": "돈벌이하다, 시간을 벌다",
+      "category": "N1 동사",
+      "example": "彼はアルバイトで学費を稼いだ。",
+      "exampleKo": "그는 아르바이트로 학비를 벌었다.",
+      "meaningEn": "to earn, to make money"
+    },
+    {
+      "word": "偏る",
+      "yomi": "かたよる",
+      "pos": "動詞",
+      "meaning": "치우치다, 편중되다",
+      "category": "N1 동사",
+      "example": "食事が偏ると健康に悪影響が出る。",
+      "exampleKo": "식사가 편중되면 건강에 나쁜 영향이 생긴다.",
+      "meaningEn": "to be biased, to be one-sided"
+    },
+    {
+      "word": "絡む",
+      "yomi": "からむ",
+      "pos": "動詞",
+      "meaning": "휘감기다, 관련되다",
+      "category": "N1 동사",
+      "example": "この問題には複数の利害関係が絡んでいる。",
+      "exampleKo": "이 문제에는 복수의 이해관계가 얽혀 있다.",
+      "meaningEn": "to entangle, to be involved with"
+    },
+    {
+      "word": "築く",
+      "yomi": "きずく",
+      "pos": "動詞",
+      "meaning": "쌓다, 구축하다",
+      "category": "N1 동사",
+      "example": "彼らは長年の努力で信頼関係を築いた。",
+      "exampleKo": "그들은 오랜 노력으로 신뢰 관계를 구축했다.",
+      "meaningEn": "to build, to establish"
+    },
+    {
+      "word": "切り出す",
+      "yomi": "きりだす",
+      "pos": "動詞",
+      "meaning": "말을 꺼내다",
+      "category": "N1 동사",
+      "example": "彼は会議の終わりにようやく本題を切り出した。",
+      "exampleKo": "그는 회의 끝에 겨우 본론을 꺼냈다.",
+      "meaningEn": "to bring up, to broach a subject"
+    },
+    {
+      "word": "食い違う",
+      "yomi": "くいちがう",
+      "pos": "動詞",
+      "meaning": "의견이 엇갈리다",
+      "category": "N1 동사",
+      "example": "双方の証言が食い違い、真相は不明のままだ。",
+      "exampleKo": "양측의 증언이 엇갈려 진상은 불명확한 채다.",
+      "meaningEn": "to disagree, to clash"
+    },
+    {
+      "word": "食い止める",
+      "yomi": "くいとめる",
+      "pos": "動詞",
+      "meaning": "저지하다, 막다",
+      "category": "N1 동사",
+      "example": "感染の拡大を食い止めるために対策を講じた。",
+      "exampleKo": "감염 확대를 막기 위해 대책을 강구했다.",
+      "meaningEn": "to check, to hold back"
+    },
+    {
+      "word": "崩す",
+      "yomi": "くずす",
+      "pos": "動詞",
+      "meaning": "무너뜨리다, 흩뜨리다",
+      "category": "N1 동사",
+      "example": "台風が山の斜面を崩した。",
+      "exampleKo": "태풍이 산 비탈을 무너뜨렸다.",
+      "meaningEn": "to collapse, to break down"
+    },
+    {
+      "word": "覆す",
+      "yomi": "くつがえす",
+      "pos": "動詞",
+      "meaning": "뒤집어엎다",
+      "category": "N1 동사",
+      "example": "新たな証拠が従来の定説を覆した。",
+      "exampleKo": "새로운 증거가 기존의 정설을 뒤집었다.",
+      "meaningEn": "to overturn, to reverse"
+    },
+    {
+      "word": "拘る",
+      "yomi": "こだわる",
+      "pos": "動詞",
+      "meaning": "집착하다, 세세하게 신경 쓰다",
+      "category": "N1 동사",
+      "example": "彼は細部に拘る職人気質の持ち主だ。",
+      "exampleKo": "그는 세부에 집착하는 장인 기질의 소유자다.",
+      "meaningEn": "to be particular about, to insist on"
+    },
+    {
+      "word": "拒む",
+      "yomi": "こばむ",
+      "pos": "動詞",
+      "meaning": "거부하다, 저지하다",
+      "category": "N1 동사",
+      "example": "彼女は理不尽な要求を毅然と拒んだ。",
+      "exampleKo": "그녀는 부당한 요구를 의연하게 거부했다.",
+      "meaningEn": "to refuse, to reject"
+    },
+    {
+      "word": "遮る",
+      "yomi": "さえぎる",
+      "pos": "動詞",
+      "meaning": "차단하다",
+      "category": "N1 동사",
+      "example": "高いビルが視界を遮っている。",
+      "exampleKo": "높은 빌딩이 시야를 차단하고 있다.",
+      "meaningEn": "to block, to interrupt"
+    },
+    {
+      "word": "逆らう",
+      "yomi": "さからう",
+      "pos": "動詞",
+      "meaning": "거스르다, 거역하다",
+      "category": "N1 동사",
+      "example": "彼は権威に逆らって自分の意見を主張した。",
+      "exampleKo": "그는 권위에 거스르며 자신의 의견을 주장했다.",
+      "meaningEn": "to go against, to defy"
+    },
+    {
+      "word": "差し引く",
+      "yomi": "さしひく",
+      "pos": "動詞",
+      "meaning": "공제하다, 차감하다",
+      "category": "N1 동사",
+      "example": "経費を差し引いた純利益を計算する。",
+      "exampleKo": "경비를 공제한 순이익을 계산한다.",
+      "meaningEn": "to deduct, to subtract"
+    },
+    {
+      "word": "授ける",
+      "yomi": "さずける",
+      "pos": "動詞",
+      "meaning": "수여하다, 하사하다",
+      "category": "N1 동사",
+      "example": "師匠は弟子に奥義を授けた。",
+      "exampleKo": "스승은 제자에게 비법을 수여했다.",
+      "meaningEn": "to grant, to bestow"
+    },
+    {
+      "word": "察する",
+      "yomi": "さっする",
+      "pos": "動詞",
+      "meaning": "헤아리다",
+      "category": "N1 동사",
+      "example": "彼の表情から不安な気持ちを察した。",
+      "exampleKo": "그의 표정에서 불안한 마음을 헤아렸다.",
+      "meaningEn": "to sense, to infer"
+    },
+    {
+      "word": "悟る",
+      "yomi": "さとる",
+      "pos": "動詞",
+      "meaning": "깨닫다",
+      "category": "N1 동사",
+      "example": "失敗を重ねて初めて真理を悟った。",
+      "exampleKo": "실패를 거듭하고 나서야 진리를 깨달았다.",
+      "meaningEn": "to realize, to attain enlightenment"
+    },
+    {
+      "word": "妨げる",
+      "yomi": "さまたげる",
+      "pos": "動詞",
+      "meaning": "방해하다",
+      "category": "N1 동사",
+      "example": "騒音が集中を妨げて作業が進まない。",
+      "exampleKo": "소음이 집중을 방해하여 작업이 진행되지 않는다.",
+      "meaningEn": "to hinder, to obstruct"
+    },
+    {
+      "word": "障る",
+      "yomi": "さわる",
+      "pos": "動詞",
+      "meaning": "방해가 되다, 지장이 있다",
+      "category": "N1 동사",
+      "example": "無理をして体に障ることになった。",
+      "exampleKo": "무리를 해서 몸에 지장이 생기게 되었다.",
+      "meaningEn": "to be harmful, to get in the way"
+    },
+    {
+      "word": "仕上がる",
+      "yomi": "しあがる",
+      "pos": "動詞",
+      "meaning": "마무리되다, 완성되다",
+      "category": "N1 동사",
+      "example": "長期間かけた作品がついに仕上がった。",
+      "exampleKo": "오랜 기간에 걸친 작품이 드디어 마무리되었다.",
+      "meaningEn": "to be finished, to be completed"
+    },
+    {
+      "word": "慕う",
+      "yomi": "したう",
+      "pos": "動詞",
+      "meaning": "사모하다, 추앙하다",
+      "category": "N1 동사",
+      "example": "弟子たちは師匠を深く慕っていた。",
+      "exampleKo": "제자들은 스승을 깊이 사모했다.",
+      "meaningEn": "to yearn for, to admire"
+    },
+    {
+      "word": "忍ぶ",
+      "yomi": "しのぶ",
+      "pos": "動詞",
+      "meaning": "숨다, 견디다",
+      "category": "N1 동사",
+      "example": "彼は苦しい時期を黙って忍んだ。",
+      "exampleKo": "그는 힘든 시기를 말없이 견뎌냈다.",
+      "meaningEn": "to endure, to conceal oneself"
+    },
+    {
+      "word": "退く",
+      "yomi": "しりぞく",
+      "pos": "動詞",
+      "meaning": "물러나다, 후퇴하다",
+      "category": "N1 동사",
+      "example": "責任を取って社長の座から退いた。",
+      "exampleKo": "책임을 지고 사장 자리에서 물러났다.",
+      "meaningEn": "to retreat, to step down"
+    },
+    {
+      "word": "廃れる",
+      "yomi": "すたれる",
+      "pos": "動詞",
+      "meaning": "쇠퇴하다",
+      "category": "N1 동사",
+      "example": "古い習慣はいつしか廃れていった。",
+      "exampleKo": "오래된 관습은 어느새 쇠퇴해갔다.",
+      "meaningEn": "to fall into disuse, to decline"
+    },
+    {
+      "word": "急かす",
+      "yomi": "せかす",
+      "pos": "動詞",
+      "meaning": "재촉하다",
+      "category": "N1 동사",
+      "example": "上司は締め切りを急かして部下を焦らせた。",
+      "exampleKo": "상사는 마감을 재촉해 부하를 초조하게 했다.",
+      "meaningEn": "to hurry, to rush"
+    },
+    {
+      "word": "迫る",
+      "yomi": "せまる",
+      "pos": "動詞",
+      "meaning": "다가오다, 강요하다",
+      "category": "N1 동사",
+      "example": "締め切りが迫って焦りを感じている。",
+      "exampleKo": "마감이 다가와 초조함을 느끼고 있다.",
+      "meaningEn": "to approach, to press"
+    },
+    {
+      "word": "損なう",
+      "yomi": "そこなう",
+      "pos": "動詞",
+      "meaning": "파손하다, 손상시키다",
+      "category": "N1 동사",
+      "example": "無理な運動が関節を損なうことがある。",
+      "exampleKo": "무리한 운동이 관절을 손상시킬 수 있다.",
+      "meaningEn": "to damage, to harm"
+    },
+    {
+      "word": "逸れる",
+      "yomi": "それる",
+      "pos": "動詞",
+      "meaning": "빗나가다, 벗어나다",
+      "category": "N1 동사",
+      "example": "台風の進路が予想から逸れた。",
+      "exampleKo": "태풍 진로가 예상에서 빗나갔다.",
+      "meaningEn": "to deviate, to go off course"
+    },
+    {
+      "word": "託す",
+      "yomi": "たくす",
+      "pos": "動詞",
+      "meaning": "맡기다, 부탁하다",
+      "category": "N1 동사",
+      "example": "彼は夢を次の世代に託した。",
+      "exampleKo": "그는 꿈을 다음 세대에 맡겼다.",
+      "meaningEn": "to entrust, to leave to"
+    },
+    {
+      "word": "蓄える",
+      "yomi": "たくわえる",
+      "pos": "動詞",
+      "meaning": "저축하다, 비축하다",
+      "category": "N1 동사",
+      "example": "老後に備えて資金を蓄えておく必要がある。",
+      "exampleKo": "노후에 대비해 자금을 비축해둘 필요가 있다.",
+      "meaningEn": "to save, to stockpile"
+    },
+    {
+      "word": "携わる",
+      "yomi": "たずさわる",
+      "pos": "動詞",
+      "meaning": "종사하다",
+      "category": "N1 동사",
+      "example": "彼女は10年以上教育に携わってきた。",
+      "exampleKo": "그녀는 10년 이상 교육에 종사해왔다.",
+      "meaningEn": "to be engaged in, to be involved"
+    },
+    {
+      "word": "漂う",
+      "yomi": "ただよう",
+      "pos": "動詞",
+      "meaning": "떠돌다, 감돌다",
+      "category": "N1 동사",
+      "example": "コーヒーの香りが部屋中に漂っている。",
+      "exampleKo": "커피 향이 방 전체에 감돌고 있다.",
+      "meaningEn": "to drift, to float"
+    },
+    {
+      "word": "立て替える",
+      "yomi": "たてかえる",
+      "pos": "動詞",
+      "meaning": "대신하여 지불하다",
+      "category": "N1 동사",
+      "example": "急いでいたので友人の分を立て替えた。",
+      "exampleKo": "급해서 친구 몫을 대신 지불했다.",
+      "meaningEn": "to pay in advance for someone"
+    },
+    {
+      "word": "費やす",
+      "yomi": "ついやす",
+      "pos": "動詞",
+      "meaning": "사용하다, 다 소비하다",
+      "category": "N1 동사",
+      "example": "彼はその研究に10年の歳月を費やした。",
+      "exampleKo": "그는 그 연구에 10년의 세월을 소비했다.",
+      "meaningEn": "to spend, to use up"
+    },
+    {
+      "word": "突き止める",
+      "yomi": "つきとめる",
+      "pos": "動詞",
+      "meaning": "밝혀내다, 알아내다",
+      "category": "N1 동사",
+      "example": "刑事は事件の真相をついに突き止めた。",
+      "exampleKo": "형사는 사건의 진상을 드디어 밝혀냈다.",
+      "meaningEn": "to track down, to identify"
+    },
+    {
+      "word": "尽くす",
+      "yomi": "つくす",
+      "pos": "動詞",
+      "meaning": "애쓰다, 있는 힘을 다하다",
+      "category": "N1 동사",
+      "example": "患者のために医師は力を尽くした。",
+      "exampleKo": "환자를 위해 의사는 힘을 다했다.",
+      "meaningEn": "to do one's best, to exhaust"
+    },
+    {
+      "word": "償う",
+      "yomi": "つぐなう",
+      "pos": "動詞",
+      "meaning": "보상하다",
+      "category": "N1 동사",
+      "example": "彼は過ちを償うために奉仕活動を続けた。",
+      "exampleKo": "그는 잘못을 보상하기 위해 봉사 활동을 계속했다.",
+      "meaningEn": "to compensate, to make amends"
+    },
+    {
+      "word": "告げる",
+      "yomi": "つげる",
+      "pos": "動詞",
+      "meaning": "고하다, 알리다",
+      "category": "N1 동사",
+      "example": "悲しい知らせを家族に告げなければならない。",
+      "exampleKo": "슬픈 소식을 가족에게 알려야 한다.",
+      "meaningEn": "to tell, to inform"
+    },
+    {
+      "word": "培う",
+      "yomi": "つちかう",
+      "pos": "動詞",
+      "meaning": "기르다, 배양하다",
+      "category": "N1 동사",
+      "example": "長年の経験が豊かな判断力を培った。",
+      "exampleKo": "오랜 경험이 풍부한 판단력을 길렀다.",
+      "meaningEn": "to cultivate, to foster"
+    },
+    {
+      "word": "慎む",
+      "yomi": "つつしむ",
+      "pos": "動詞",
+      "meaning": "삼가다",
+      "category": "N1 동사",
+      "example": "公の場での言動を慎むよう心がけている。",
+      "exampleKo": "공개 장소에서의 언행을 삼가도록 유의하고 있다.",
+      "meaningEn": "to be prudent, to refrain"
+    },
+    {
+      "word": "集う",
+      "yomi": "つどう",
+      "pos": "動詞",
+      "meaning": "모이다",
+      "category": "N1 동사",
+      "example": "同窓生が10年ぶりに一堂に集った。",
+      "exampleKo": "동창생들이 10년 만에 한자리에 모였다.",
+      "meaningEn": "to gather, to assemble"
+    },
+    {
+      "word": "募る",
+      "yomi": "つのる",
+      "pos": "動詞",
+      "meaning": "점점 강해지다, 모집하다",
+      "category": "N1 동사",
+      "example": "被災地への支援を募るキャンペーンが始まった。",
+      "exampleKo": "피재지에 대한 지원을 모집하는 캠페인이 시작되었다.",
+      "meaningEn": "to grow, to recruit"
+    },
+    {
+      "word": "積み立てる",
+      "yomi": "つみたてる",
+      "pos": "動詞",
+      "meaning": "적립하다",
+      "category": "N1 동사",
+      "example": "毎月少額ずつ積み立てて旅行費用を貯めた。",
+      "exampleKo": "매달 소액씩 적립하여 여행 비용을 모았다.",
+      "meaningEn": "to save up, to accumulate"
+    },
+    {
+      "word": "貫く",
+      "yomi": "つらぬく",
+      "pos": "動詞",
+      "meaning": "관철하다",
+      "category": "N1 동사",
+      "example": "彼は困難の中でも信念を貫いた。",
+      "exampleKo": "그는 어려움 속에서도 신념을 관철했다.",
+      "meaningEn": "to carry through, to penetrate"
+    },
+    {
+      "word": "遠ざける",
+      "yomi": "とおざける",
+      "pos": "動詞",
+      "meaning": "멀리하다",
+      "category": "N1 동사",
+      "example": "健康のために脂っこい食事を遠ざけている。",
+      "exampleKo": "건강을 위해 기름진 음식을 멀리하고 있다.",
+      "meaningEn": "to keep away, to distance"
+    },
+    {
+      "word": "説く",
+      "yomi": "とく",
+      "pos": "動詞",
+      "meaning": "설명하다, 설득하다",
+      "category": "N1 동사",
+      "example": "彼女は平和の大切さを多くの場で説いた。",
+      "exampleKo": "그녀는 평화의 소중함을 많은 자리에서 설파했다.",
+      "meaningEn": "to explain, to preach"
+    },
+    {
+      "word": "遂げる",
+      "yomi": "とげる",
+      "pos": "動詞",
+      "meaning": "이루다, 완수하다",
+      "category": "N1 동사",
+      "example": "長年の夢をついに遂げることができた。",
+      "exampleKo": "오랜 꿈을 드디어 이룰 수 있었다.",
+      "meaningEn": "to accomplish, to achieve"
+    },
+    {
+      "word": "滞る",
+      "yomi": "とどこおる",
+      "pos": "動詞",
+      "meaning": "막히다, 밀리다",
+      "category": "N1 동사",
+      "example": "支払いが滞ると信用に傷がつく。",
+      "exampleKo": "지불이 밀리면 신용에 타격이 생긴다.",
+      "meaningEn": "to stagnate, to be delayed"
+    },
+    {
+      "word": "唱える",
+      "yomi": "となえる",
+      "pos": "動詞",
+      "meaning": "외치다, 주장하다",
+      "category": "N1 동사",
+      "example": "研究者は新たな仮説を唱えた。",
+      "exampleKo": "연구자는 새로운 가설을 주장했다.",
+      "meaningEn": "to advocate, to chant"
+    },
+    {
+      "word": "戸惑う",
+      "yomi": "とまどう",
+      "pos": "動詞",
+      "meaning": "어리둥절해 하다, 당황하다",
+      "category": "N1 동사",
+      "example": "突然の質問に戸惑って答えられなかった。",
+      "exampleKo": "갑작스러운 질문에 당황하여 대답하지 못했다.",
+      "meaningEn": "to be puzzled, to be confused"
+    },
+    {
+      "word": "取り組む",
+      "yomi": "とりくむ",
+      "pos": "動詞",
+      "meaning": "몰두하다",
+      "category": "N1 동사",
+      "example": "会社は環境問題に本気で取り組んでいる。",
+      "exampleKo": "회사는 환경 문제에 진지하게 몰두하고 있다.",
+      "meaningEn": "to tackle, to work on"
+    },
+    {
+      "word": "取り締まる",
+      "yomi": "とりしまる",
+      "pos": "動詞",
+      "meaning": "단속하다",
+      "category": "N1 동사",
+      "example": "警察は違法駐車を厳しく取り締まった。",
+      "exampleKo": "경찰은 불법 주차를 엄격하게 단속했다.",
+      "meaningEn": "to regulate, to crack down on"
+    },
+    {
+      "word": "取り戻す",
+      "yomi": "とりもどす",
+      "pos": "動詞",
+      "meaning": "되찾다, 회복하다",
+      "category": "N1 동사",
+      "example": "失った信頼を取り戻すのは容易ではない。",
+      "exampleKo": "잃어버린 신뢰를 되찾는 것은 쉽지 않다.",
+      "meaningEn": "to regain, to recover"
+    },
+    {
+      "word": "賑わう",
+      "yomi": "にぎわう",
+      "pos": "動詞",
+      "meaning": "활기차다, 번화하다",
+      "category": "N1 동사",
+      "example": "祭りの日、商店街は多くの人で賑わった。",
+      "exampleKo": "축제날, 상점가는 많은 사람으로 활기찼다.",
+      "meaningEn": "to be bustling, to be lively"
+    },
+    {
+      "word": "担う",
+      "yomi": "になう",
+      "pos": "動詞",
+      "meaning": "짊어지다, 떠맡다",
+      "category": "N1 동사",
+      "example": "若い世代が社会の未来を担っている。",
+      "exampleKo": "젊은 세대가 사회의 미래를 짊어지고 있다.",
+      "meaningEn": "to bear, to shoulder"
+    },
+    {
+      "word": "鈍る",
+      "yomi": "にぶる",
+      "pos": "動詞",
+      "meaning": "둔해지다, 무디어지다",
+      "category": "N1 동사",
+      "example": "長期の休養で感覚が鈍るのを感じた。",
+      "exampleKo": "장기간의 휴양으로 감각이 둔해지는 것을 느꼈다.",
+      "meaningEn": "to become dull, to weaken"
+    },
+    {
+      "word": "逃れる",
+      "yomi": "のがれる",
+      "pos": "動詞",
+      "meaning": "벗어나다, 피하다",
+      "category": "N1 동사",
+      "example": "彼はその場の責任から逃れようとした。",
+      "exampleKo": "그는 그 자리의 책임에서 벗어나려 했다.",
+      "meaningEn": "to escape, to evade"
+    },
+    {
+      "word": "臨む",
+      "yomi": "のぞむ",
+      "pos": "動詞",
+      "meaning": "임하다, 상황에 직면하다",
+      "category": "N1 동사",
+      "example": "選手たちは強い気持ちで決勝に臨んだ。",
+      "exampleKo": "선수들은 강한 마음으로 결승전에 임했다.",
+      "meaningEn": "to face, to attend"
+    },
+    {
+      "word": "乗り出す",
+      "yomi": "のりだす",
+      "pos": "動詞",
+      "meaning": "시작하다",
+      "category": "N1 동사",
+      "example": "政府は経済再建に本格的に乗り出した。",
+      "exampleKo": "정부는 경제 재건에 본격적으로 나섰다.",
+      "meaningEn": "to embark on, to set out"
+    },
+    {
+      "word": "剥がす",
+      "yomi": "はがす",
+      "pos": "動詞",
+      "meaning": "벗기다, 떼다",
+      "category": "N1 동사",
+      "example": "壁に貼ったポスターを剥がした。",
+      "exampleKo": "벽에 붙인 포스터를 떼어냈다.",
+      "meaningEn": "to peel off, to strip"
+    },
+    {
+      "word": "捗る",
+      "yomi": "はかどる",
+      "pos": "動詞",
+      "meaning": "진척되다",
+      "category": "N1 동사",
+      "example": "集中できる環境では仕事が捗る。",
+      "exampleKo": "집중할 수 있는 환경에서는 일이 잘 진척된다.",
+      "meaningEn": "to make progress, to advance"
+    },
+    {
+      "word": "励む",
+      "yomi": "はげむ",
+      "pos": "動詞",
+      "meaning": "힘쓰다",
+      "category": "N1 동사",
+      "example": "彼女は毎日練習に励んで上達した。",
+      "exampleKo": "그녀는 매일 연습에 힘써 실력이 늘었다.",
+      "meaningEn": "to work hard, to strive"
+    },
+    {
+      "word": "弾む",
+      "yomi": "はずむ",
+      "pos": "動詞",
+      "meaning": "튀다, 들뜨다",
+      "category": "N1 동사",
+      "example": "久しぶりの再会で会話が弾んだ。",
+      "exampleKo": "오랜만의 재회로 대화가 들뜨게 오갔다.",
+      "meaningEn": "to bounce, to be lively"
+    },
+    {
+      "word": "阻む",
+      "yomi": "はばむ",
+      "pos": "動詞",
+      "meaning": "저지하다, 가로막다",
+      "category": "N1 동사",
+      "example": "悪天候が登山を阻んだ。",
+      "exampleKo": "악천후가 등산을 가로막았다.",
+      "meaningEn": "to obstruct, to prevent"
+    },
+    {
+      "word": "張り合う",
+      "yomi": "はりあう",
+      "pos": "動詞",
+      "meaning": "겨루다, 경쟁하다",
+      "category": "N1 동사",
+      "example": "二人の選手は激しく張り合った。",
+      "exampleKo": "두 선수는 치열하게 겨루었다.",
+      "meaningEn": "to compete, to rival"
+    },
+    {
+      "word": "張り切る",
+      "yomi": "はりきる",
+      "pos": "動詞",
+      "meaning": "기운이 넘치다",
+      "category": "N1 동사",
+      "example": "新しいプロジェクトに向けて張り切っている。",
+      "exampleKo": "새로운 프로젝트를 향해 기운이 넘치고 있다.",
+      "meaningEn": "to be enthusiastic, to be full of energy"
+    },
+    {
+      "word": "控える",
+      "yomi": "ひかえる",
+      "pos": "動詞",
+      "meaning": "삼가다, 앞두다, 기록하다",
+      "category": "N1 동사",
+      "example": "健康のために塩分を控えるよう医師に言われた。",
+      "exampleKo": "건강을 위해 염분을 삼가라고 의사에게 말을 들었다.",
+      "meaningEn": "to refrain, to be in store"
+    },
+    {
+      "word": "率いる",
+      "yomi": "ひきいる",
+      "pos": "動詞",
+      "meaning": "이끌다, 인솔하다",
+      "category": "N1 동사",
+      "example": "名将が軍を率いて勝利を収めた。",
+      "exampleKo": "명장이 군을 이끌어 승리를 거두었다.",
+      "meaningEn": "to lead, to command"
+    },
+    {
+      "word": "引き落とす",
+      "yomi": "ひきおとす",
+      "pos": "動詞",
+      "meaning": "당겨서 떨어뜨리다, 자동납부하다",
+      "category": "N1 동사",
+      "example": "毎月の家賃は口座から自動で引き落とされる。",
+      "exampleKo": "매달 집세는 계좌에서 자동으로 납부된다.",
+      "meaningEn": "to debit, to pull down"
+    },
+    {
+      "word": "引き寄せる",
+      "yomi": "ひきよせる",
+      "pos": "動詞",
+      "meaning": "끌어당기다",
+      "category": "N1 동사",
+      "example": "磁石が鉄片を引き寄せる。",
+      "exampleKo": "자석이 쇳조각을 끌어당긴다.",
+      "meaningEn": "to attract, to draw near"
+    },
+    {
+      "word": "響く",
+      "yomi": "ひびく",
+      "pos": "動詞",
+      "meaning": "울리다",
+      "category": "N1 동사",
+      "example": "山間に鐘の音が響き渡った。",
+      "exampleKo": "산골짜기에 종소리가 울려 퍼졌다.",
+      "meaningEn": "to resound, to echo"
+    },
+    {
+      "word": "秘める",
+      "yomi": "ひめる",
+      "pos": "動詞",
+      "meaning": "숨기다, 감추다",
+      "category": "N1 동사",
+      "example": "彼女は心に深い悲しみを秘めていた。",
+      "exampleKo": "그녀는 마음속에 깊은 슬픔을 감추고 있었다.",
+      "meaningEn": "to keep secret, to conceal"
+    },
+    {
+      "word": "翻す",
+      "yomi": "ひるがえす",
+      "pos": "動詞",
+      "meaning": "뒤집다, 번복하다",
+      "category": "N1 동사",
+      "example": "彼は一度した約束をあっさり翻した。",
+      "exampleKo": "그는 한번 한 약속을 쉽게 뒤집었다.",
+      "meaningEn": "to reverse, to overturn"
+    },
+    {
+      "word": "隔てる",
+      "yomi": "へだてる",
+      "pos": "動詞",
+      "meaning": "멀리하다, 사이에 두다",
+      "category": "N1 동사",
+      "example": "川が二つの村を隔てている。",
+      "exampleKo": "강이 두 마을을 사이에 두고 있다.",
+      "meaningEn": "to separate, to keep apart"
+    },
+    {
+      "word": "解ける",
+      "yomi": "ほどける",
+      "pos": "動詞",
+      "meaning": "매듭·끈이 풀리다",
+      "category": "N1 동사",
+      "example": "結び目がほどけて荷物が散らばった。",
+      "exampleKo": "매듭이 풀려 짐이 흩어졌다.",
+      "meaningEn": "to come untied, to be solved"
+    },
+    {
+      "word": "施す",
+      "yomi": "ほどこす",
+      "pos": "動詞",
+      "meaning": "베풀다, 행하다",
+      "category": "N1 동사",
+      "example": "医師は患者に適切な処置を施した。",
+      "exampleKo": "의사는 환자에게 적절한 처치를 베풀었다.",
+      "meaningEn": "to give, to perform"
+    },
+    {
+      "word": "滅びる",
+      "yomi": "ほろびる",
+      "pos": "動詞",
+      "meaning": "멸망하다",
+      "category": "N1 동사",
+      "example": "かつて栄えた文明がいつしか滅びた。",
+      "exampleKo": "한때 번성한 문명이 어느새 멸망했다.",
+      "meaningEn": "to perish, to be destroyed"
+    },
+    {
+      "word": "紛れる",
+      "yomi": "まぎれる",
+      "pos": "動詞",
+      "meaning": "뒤섞이다",
+      "category": "N1 동사",
+      "example": "彼はその騒ぎに紛れて姿を消した。",
+      "exampleKo": "그는 그 소란에 뒤섞여 모습을 감추었다.",
+      "meaningEn": "to be mixed up, to get lost in"
+    },
+    {
+      "word": "惑わす",
+      "yomi": "まどわす",
+      "pos": "動詞",
+      "meaning": "혼란시키다, 현혹시키다",
+      "category": "N1 동사",
+      "example": "巧みな言葉で人々を惑わした。",
+      "exampleKo": "교묘한 말로 사람들을 현혹시켰다.",
+      "meaningEn": "to mislead, to confuse"
+    },
+    {
+      "word": "免れる",
+      "yomi": "まぬかれる",
+      "pos": "動詞",
+      "meaning": "면하다, 모면하다",
+      "category": "N1 동사",
+      "example": "大事故をかろうじて免れることができた。",
+      "exampleKo": "큰 사고를 간신히 모면할 수 있었다.",
+      "meaningEn": "to escape, to avoid"
+    },
+    {
+      "word": "見合わせる",
+      "yomi": "みあわせる",
+      "pos": "動詞",
+      "meaning": "보류하다",
+      "category": "N1 동사",
+      "example": "天候不良のため出発を見合わせた。",
+      "exampleKo": "기상 불량으로 출발을 보류했다.",
+      "meaningEn": "to postpone, to refrain"
+    },
+    {
+      "word": "見失う",
+      "yomi": "みうしなう",
+      "pos": "動詞",
+      "meaning": "시야에서 놓치다",
+      "category": "N1 동사",
+      "example": "人込みの中で子供を見失ってしまった。",
+      "exampleKo": "사람들 속에서 아이를 시야에서 놓쳐버렸다.",
+      "meaningEn": "to lose sight of"
+    },
+    {
+      "word": "見落とす",
+      "yomi": "みおとす",
+      "pos": "動詞",
+      "meaning": "간과하다",
+      "category": "N1 동사",
+      "example": "重要な注意書きを見落としてしまった。",
+      "exampleKo": "중요한 주의사항을 간과해버렸다.",
+      "meaningEn": "to overlook, to miss"
+    },
+    {
+      "word": "設ける",
+      "yomi": "もうける",
+      "pos": "動詞",
+      "meaning": "마련하다, 설치하다",
+      "category": "N1 동사",
+      "example": "社内に新しい部署を設けることになった。",
+      "exampleKo": "사내에 새로운 부서를 마련하게 되었다.",
+      "meaningEn": "to establish, to set up"
+    },
+    {
+      "word": "催す",
+      "yomi": "もよおす",
+      "pos": "動詞",
+      "meaning": "개최하다",
+      "category": "N1 동사",
+      "example": "市民団体が環境フォーラムを催した。",
+      "exampleKo": "시민단체가 환경 포럼을 개최했다.",
+      "meaningEn": "to hold, to organize"
+    },
+    {
+      "word": "養う",
+      "yomi": "やしなう",
+      "pos": "動詞",
+      "meaning": "기르다, 부양하다",
+      "category": "N1 동사",
+      "example": "彼は家族を養うために昼夜を問わず働いた。",
+      "exampleKo": "그는 가족을 부양하기 위해 밤낮을 가리지 않고 일했다.",
+      "meaningEn": "to raise, to support"
+    },
+    {
+      "word": "安らぐ",
+      "yomi": "やすらぐ",
+      "pos": "動詞",
+      "meaning": "평온해지다",
+      "category": "N1 동사",
+      "example": "自然の中にいると心が安らぐ。",
+      "exampleKo": "자연 속에 있으면 마음이 평온해진다.",
+      "meaningEn": "to feel at ease, to relax"
+    },
+    {
+      "word": "和らぐ",
+      "yomi": "やわらぐ",
+      "pos": "動詞",
+      "meaning": "누그러지다",
+      "category": "N1 동사",
+      "example": "薬を飲んで痛みが和らいだ。",
+      "exampleKo": "약을 먹어 통증이 누그러졌다.",
+      "meaningEn": "to soften, to ease"
+    },
+    {
+      "word": "揺らぐ",
+      "yomi": "ゆらぐ",
+      "pos": "動詞",
+      "meaning": "흔들리다",
+      "category": "N1 동사",
+      "example": "強風で炎が揺らいでいる。",
+      "exampleKo": "강풍에 불꽃이 흔들리고 있다.",
+      "meaningEn": "to waver, to sway"
+    },
+    {
+      "word": "揺るがす",
+      "yomi": "ゆるがす",
+      "pos": "動詞",
+      "meaning": "뒤흔들다",
+      "category": "N1 동사",
+      "example": "その発言は社会全体を揺るがした。",
+      "exampleKo": "그 발언은 사회 전체를 뒤흔들었다.",
+      "meaningEn": "to shake, to rock"
+    },
+    {
+      "word": "緩める",
+      "yomi": "ゆるめる",
+      "pos": "動詞",
+      "meaning": "완화하다, 느슨하게 하다",
+      "category": "N1 동사",
+      "example": "試験が終わって緊張を緩めた。",
+      "exampleKo": "시험이 끝나 긴장을 완화했다.",
+      "meaningEn": "to loosen, to relax"
+    },
+    {
+      "word": "装う",
+      "yomi": "よそおう",
+      "pos": "動詞",
+      "meaning": "꾸미다, 치장하다",
+      "category": "N1 동사",
+      "example": "彼女は平静を装ってその場をやり過ごした。",
+      "exampleKo": "그녀는 평정을 가장하고 그 자리를 넘겼다.",
+      "meaningEn": "to disguise, to dress up"
+    },
+    {
+      "word": "詫びる",
+      "yomi": "わびる",
+      "pos": "動詞",
+      "meaning": "사과하다",
+      "category": "N1 동사",
+      "example": "遅刻したことを上司に詫びた。",
+      "exampleKo": "지각한 것을 상사에게 사과했다.",
+      "meaningEn": "to apologize"
+    },
+    {
+      "word": "割り込む",
+      "yomi": "わりこむ",
+      "pos": "動詞",
+      "meaning": "끼어들다, 새치기하다",
+      "category": "N1 동사",
+      "example": "行列に割り込む行為はマナー違反だ。",
+      "exampleKo": "줄에 끼어드는 행위는 예의 위반이다.",
+      "meaningEn": "to cut in, to interrupt"
+    },
+    {
+      "word": "淡い",
+      "yomi": "あわい",
+      "pos": "い形容詞",
+      "meaning": "연하다, 흐리다",
+      "category": "N1 형용사",
+      "example": "春の空には淡いピンクの桜が映えていた。",
+      "exampleKo": "봄 하늘에는 연한 분홍빛 벚꽃이 돋보였다.",
+      "meaningEn": "faint, pale, light"
+    },
+    {
+      "word": "潔い",
+      "yomi": "いさぎよい",
+      "pos": "い形容詞",
+      "meaning": "깨끗하다, 후련하다",
+      "category": "N1 형용사",
+      "example": "負けを認める潔い態度に周りが感動した。",
+      "exampleKo": "패배를 인정하는 깨끗한 태도에 주변이 감동했다.",
+      "meaningEn": "clean, upright, graceful"
+    },
+    {
+      "word": "薄暗い",
+      "yomi": "うすぐらい",
+      "pos": "い形容詞",
+      "meaning": "어둑어둑하다, 침침하다",
+      "category": "N1 형용사",
+      "example": "古い図書館の廊下は薄暗くて不気味だった。",
+      "exampleKo": "오래된 도서관 복도는 어둑어둑하고 으스스했다.",
+      "meaningEn": "dim, gloomy"
+    },
+    {
+      "word": "疑わしい",
+      "yomi": "うたがわしい",
+      "pos": "い形容詞",
+      "meaning": "의심스럽다",
+      "category": "N1 형용사",
+      "example": "その証言は内容が矛盾していて疑わしい。",
+      "exampleKo": "그 증언은 내용이 모순되어 의심스럽다.",
+      "meaningEn": "doubtful, suspicious"
+    },
+    {
+      "word": "重々しい",
+      "yomi": "おもおもしい",
+      "pos": "い形容詞",
+      "meaning": "엄숙하다, 위엄이 있다",
+      "category": "N1 형용사",
+      "example": "式典の会場は重々しい雰囲気に包まれていた。",
+      "exampleKo": "식전 회장은 엄숙한 분위기에 감싸여 있었다.",
+      "meaningEn": "solemn, grave"
+    },
+    {
+      "word": "清い",
+      "yomi": "きよい",
+      "pos": "い形容詞",
+      "meaning": "맑다, 깨끗하다",
+      "category": "N1 형용사",
+      "example": "山から流れ下る清い水で顔を洗った。",
+      "exampleKo": "산에서 흘러내리는 맑은 물로 얼굴을 씻었다.",
+      "meaningEn": "pure, clear"
+    },
+    {
+      "word": "心地よい",
+      "yomi": "ここちよい",
+      "pos": "い形容詞",
+      "meaning": "기분 좋다, 상쾌하다",
+      "category": "N1 형용사",
+      "example": "窓から吹き込む風が心地よかった。",
+      "exampleKo": "창문으로 불어오는 바람이 상쾌했다.",
+      "meaningEn": "comfortable, pleasant"
+    },
+    {
+      "word": "心無い",
+      "yomi": "こころない",
+      "pos": "い形容詞",
+      "meaning": "철이 없다, 매정하다",
+      "category": "N1 형용사",
+      "example": "心無い言葉が相手を深く傷つけた。",
+      "exampleKo": "매정한 말이 상대방을 깊이 상처 입혔다.",
+      "meaningEn": "thoughtless, heartless"
+    },
+    {
+      "word": "快い",
+      "yomi": "こころよい",
+      "pos": "い形容詞",
+      "meaning": "기분 좋다",
+      "category": "N1 형용사",
+      "example": "快い春風の中を散歩した。",
+      "exampleKo": "상쾌한 봄바람 속을 산책했다.",
+      "meaningEn": "pleasant, agreeable"
+    },
+    {
+      "word": "騒々しい",
+      "yomi": "そうぞうしい",
+      "pos": "い形容詞",
+      "meaning": "시끄럽다, 소란스럽다",
+      "category": "N1 형용사",
+      "example": "隣の部屋が騒々しくて眠れなかった。",
+      "exampleKo": "옆방이 시끄러워서 잠을 잘 수 없었다.",
+      "meaningEn": "noisy, clamorous"
+    },
+    {
+      "word": "容易い",
+      "yomi": "たやすい",
+      "pos": "い形容詞",
+      "meaning": "쉽다, 용이하다",
+      "category": "N1 형용사",
+      "example": "その問題は見た目より容易く解けた。",
+      "exampleKo": "그 문제는 보기보다 쉽게 풀렸다.",
+      "meaningEn": "easy, simple"
+    },
+    {
+      "word": "注意深い",
+      "yomi": "ちゅういぶかい",
+      "pos": "い形容詞",
+      "meaning": "주의 깊다, 신중하다",
+      "category": "N1 형용사",
+      "example": "注意深い観察が重要な発見につながった。",
+      "exampleKo": "주의 깊은 관찰이 중요한 발견으로 이어졌다.",
+      "meaningEn": "careful, cautious"
+    },
+    {
+      "word": "粘り強い",
+      "yomi": "ねばりづよい",
+      "pos": "い形容詞",
+      "meaning": "끈기 있다",
+      "category": "N1 형용사",
+      "example": "粘り強い交渉の末、合意に達した。",
+      "exampleKo": "끈기 있는 교섭 끝에 합의에 이르렀다.",
+      "meaningEn": "persistent, tenacious"
+    },
+    {
+      "word": "望ましい",
+      "yomi": "のぞましい",
+      "pos": "い形容詞",
+      "meaning": "바람직하다",
+      "category": "N1 형용사",
+      "example": "双方が対話で解決するのが望ましい。",
+      "exampleKo": "양측이 대화로 해결하는 것이 바람직하다.",
+      "meaningEn": "desirable, preferable"
+    },
+    {
+      "word": "甚だしい",
+      "yomi": "はなはだしい",
+      "pos": "い形容詞",
+      "meaning": "심하다",
+      "category": "N1 형용사",
+      "example": "その誤解も甚だしいと言わざるを得ない。",
+      "exampleKo": "그 오해도 심하다고 말하지 않을 수 없다.",
+      "meaningEn": "extreme, excessive"
+    },
+    {
+      "word": "華々しい",
+      "yomi": "はなばなしい",
+      "pos": "い形容詞",
+      "meaning": "화려하다",
+      "category": "N1 형용사",
+      "example": "彼女は華々しい経歴を持つ研究者だ。",
+      "exampleKo": "그녀는 화려한 경력을 가진 연구자다.",
+      "meaningEn": "brilliant, glorious"
+    },
+    {
+      "word": "幅広い",
+      "yomi": "はばひろい",
+      "pos": "い形容詞",
+      "meaning": "폭넓다",
+      "category": "N1 형용사",
+      "example": "彼は幅広い分野で活躍している。",
+      "exampleKo": "그는 폭넓은 분야에서 활약하고 있다.",
+      "meaningEn": "wide-ranging, broad"
+    },
+    {
+      "word": "分厚い",
+      "yomi": "ぶあつい",
+      "pos": "い形容詞",
+      "meaning": "두툼하다, 두껍다",
+      "category": "N1 형용사",
+      "example": "分厚い資料を一晩で読み終えた。",
+      "exampleKo": "두툼한 자료를 하룻밤에 다 읽었다.",
+      "meaningEn": "thick, bulky"
+    },
+    {
+      "word": "紛らわしい",
+      "yomi": "まぎらわしい",
+      "pos": "い形容詞",
+      "meaning": "헷갈리다, 혼란스럽다",
+      "category": "N1 형용사",
+      "example": "この二つの漢字は形が紛らわしい。",
+      "exampleKo": "이 두 한자는 모양이 헷갈린다.",
+      "meaningEn": "confusing, misleading"
+    },
+    {
+      "word": "目覚ましい",
+      "yomi": "めざましい",
+      "pos": "い形容詞",
+      "meaning": "눈부시다, 주목할 만하다",
+      "category": "N1 형용사",
+      "example": "技術の目覚ましい進歩が産業を変えた。",
+      "exampleKo": "기술의 눈부신 진보가 산업을 바꿨다.",
+      "meaningEn": "remarkable, striking"
+    },
+    {
+      "word": "物々しい",
+      "yomi": "ものものしい",
+      "pos": "い形容詞",
+      "meaning": "삼엄하다",
+      "category": "N1 형용사",
+      "example": "警備員が物々しく並んで警戒していた。",
+      "exampleKo": "경비원들이 삼엄하게 늘어서 경계하고 있었다.",
+      "meaningEn": "imposing, formidable"
+    },
+    {
+      "word": "煩わしい",
+      "yomi": "わずらわしい",
+      "pos": "い形容詞",
+      "meaning": "성가시다, 번거롭다",
+      "category": "N1 형용사",
+      "example": "複雑な手続きが煩わしくて嫌になった。",
+      "exampleKo": "복잡한 절차가 번거로워 싫어졌다.",
+      "meaningEn": "troublesome, annoying"
+    },
+    {
+      "word": "円滑な",
+      "yomi": "えんかつな",
+      "pos": "な形容詞",
+      "meaning": "원활한",
+      "category": "N1 형용사",
+      "example": "会議が円滑に進んで全員が満足した。",
+      "exampleKo": "회의가 원활하게 진행되어 모두가 만족했다.",
+      "meaningEn": "smooth, harmonious"
+    },
+    {
+      "word": "厳かな",
+      "yomi": "おごそかな",
+      "pos": "な形容詞",
+      "meaning": "엄숙한",
+      "category": "N1 형용사",
+      "example": "葬儀は厳かな雰囲気の中で執り行われた。",
+      "exampleKo": "장례식은 엄숙한 분위기 속에서 치러졌다.",
+      "meaningEn": "solemn, majestic"
+    },
+    {
+      "word": "愚かな",
+      "yomi": "おろかな",
+      "pos": "な形容詞",
+      "meaning": "어리석은",
+      "category": "N1 형용사",
+      "example": "愚かな判断が大きな損失を招いた。",
+      "exampleKo": "어리석은 판단이 큰 손실을 초래했다.",
+      "meaningEn": "foolish, stupid"
+    },
+    {
+      "word": "疎かな",
+      "yomi": "おろそかな",
+      "pos": "な形容詞",
+      "meaning": "소홀한",
+      "category": "N1 형용사",
+      "example": "基礎を疎かにすると後で必ず問題が出る。",
+      "exampleKo": "기초를 소홀히 하면 나중에 반드시 문제가 생긴다.",
+      "meaningEn": "neglectful, careless"
+    },
+    {
+      "word": "画一的な",
+      "yomi": "かくいつてきな",
+      "pos": "な形容詞",
+      "meaning": "획일적인",
+      "category": "N1 형용사",
+      "example": "画一的な教育では個性が育たない。",
+      "exampleKo": "획일적인 교육으로는 개성이 자라지 않는다.",
+      "meaningEn": "uniform, standardized"
+    },
+    {
+      "word": "頑なな",
+      "yomi": "かたくなな",
+      "pos": "な形容詞",
+      "meaning": "완고한",
+      "category": "N1 형용사",
+      "example": "彼は頑なに自分の意見を変えなかった。",
+      "exampleKo": "그는 완고하게 자신의 의견을 바꾸지 않았다.",
+      "meaningEn": "stubborn, obstinate"
+    },
+    {
+      "word": "画期的な",
+      "yomi": "かっきてきな",
+      "pos": "な形容詞",
+      "meaning": "획기적인",
+      "category": "N1 형용사",
+      "example": "その発明は画期的な技術として注目された。",
+      "exampleKo": "그 발명은 획기적인 기술로 주목받았다.",
+      "meaningEn": "groundbreaking, epoch-making"
+    },
+    {
+      "word": "頑固な",
+      "yomi": "がんこな",
+      "pos": "な形容詞",
+      "meaning": "완고한",
+      "category": "N1 형용사",
+      "example": "頑固な父はなかなか意見を曲げない。",
+      "exampleKo": "완고한 아버지는 좀처럼 의견을 굽히지 않는다.",
+      "meaningEn": "stubborn, headstrong"
+    },
+    {
+      "word": "頑丈な",
+      "yomi": "がんじょうな",
+      "pos": "な形容詞",
+      "meaning": "튼튼한",
+      "category": "N1 형용사",
+      "example": "頑丈な作りのバッグを選んだ。",
+      "exampleKo": "튼튼한 구조의 가방을 골랐다.",
+      "meaningEn": "sturdy, robust"
+    },
+    {
+      "word": "肝心な",
+      "yomi": "かんじんな",
+      "pos": "な形容詞",
+      "meaning": "중요한",
+      "category": "N1 형용사",
+      "example": "肝心な部分で集中力が途切れてしまった。",
+      "exampleKo": "중요한 부분에서 집중력이 끊겨버렸다.",
+      "meaningEn": "essential, crucial"
+    },
+    {
+      "word": "閑静な",
+      "yomi": "かんせいな",
+      "pos": "な形容詞",
+      "meaning": "한적한, 조용한",
+      "category": "N1 형용사",
+      "example": "閑静な住宅街に引っ越すことにした。",
+      "exampleKo": "한적한 주택가로 이사하기로 했다.",
+      "meaningEn": "quiet, peaceful"
+    },
+    {
+      "word": "完璧な",
+      "yomi": "かんぺきな",
+      "pos": "な形容詞",
+      "meaning": "완벽한",
+      "category": "N1 형용사",
+      "example": "完璧な計画を立てても予想外のことは起きる。",
+      "exampleKo": "완벽한 계획을 세워도 예상 밖의 일은 생긴다.",
+      "meaningEn": "perfect, flawless"
+    },
+    {
+      "word": "寛容な",
+      "yomi": "かんような",
+      "pos": "な形容詞",
+      "meaning": "너그러운",
+      "category": "N1 형용사",
+      "example": "寛容な心で相手の失敗を許すことが大切だ。",
+      "exampleKo": "너그러운 마음으로 상대방의 실수를 용서하는 것이 중요하다.",
+      "meaningEn": "tolerant, lenient"
+    },
+    {
+      "word": "窮屈な",
+      "yomi": "きゅうくつな",
+      "pos": "な形容詞",
+      "meaning": "비좁은, 답답한",
+      "category": "N1 형용사",
+      "example": "小さな部屋での生活は窮屈に感じられた。",
+      "exampleKo": "작은 방에서의 생활은 답답하게 느껴졌다.",
+      "meaningEn": "cramped, restrictive"
+    },
+    {
+      "word": "強硬な",
+      "yomi": "きょうこうな",
+      "pos": "な形容詞",
+      "meaning": "강경한",
+      "category": "N1 형용사",
+      "example": "強硬な態度で交渉に臨んだ。",
+      "exampleKo": "강경한 태도로 교섭에 임했다.",
+      "meaningEn": "hardline, firm"
+    },
+    {
+      "word": "強大な",
+      "yomi": "きょうだいな",
+      "pos": "な形容詞",
+      "meaning": "강대한, 막강한",
+      "category": "N1 형용사",
+      "example": "強大な勢力に対抗するのは容易ではない。",
+      "exampleKo": "강대한 세력에 대항하는 것은 쉽지 않다.",
+      "meaningEn": "powerful, mighty"
+    },
+    {
+      "word": "極端な",
+      "yomi": "きょくたんな",
+      "pos": "な形容詞",
+      "meaning": "극단적인",
+      "category": "N1 형용사",
+      "example": "極端な意見は対立を生みやすい。",
+      "exampleKo": "극단적인 의견은 대립을 낳기 쉽다.",
+      "meaningEn": "extreme, radical"
+    },
+    {
+      "word": "緊密な",
+      "yomi": "きんみつな",
+      "pos": "な形容詞",
+      "meaning": "긴밀한",
+      "category": "N1 형용사",
+      "example": "両国は緊密な関係を維持してきた。",
+      "exampleKo": "양국은 긴밀한 관계를 유지해왔다.",
+      "meaningEn": "close, tight"
+    },
+    {
+      "word": "堅実な",
+      "yomi": "けんじつな",
+      "pos": "な形容詞",
+      "meaning": "견실한, 탄탄한",
+      "category": "N1 형용사",
+      "example": "堅実な経営が長期的な成功をもたらす。",
+      "exampleKo": "견실한 경영이 장기적인 성공을 가져온다.",
+      "meaningEn": "steady, sound"
+    },
+    {
+      "word": "厳正な",
+      "yomi": "げんせいな",
+      "pos": "な形容詞",
+      "meaning": "엄정한",
+      "category": "N1 형용사",
+      "example": "厳正な審査を経て受賞者が選ばれた。",
+      "exampleKo": "엄정한 심사를 거쳐 수상자가 선발되었다.",
+      "meaningEn": "strict, impartial"
+    },
+    {
+      "word": "顕著な",
+      "yomi": "けんちょな",
+      "pos": "な形容詞",
+      "meaning": "현저한",
+      "category": "N1 형용사",
+      "example": "この地域では顕著な経済成長が見られる。",
+      "exampleKo": "이 지역에서는 현저한 경제 성장이 보인다.",
+      "meaningEn": "remarkable, notable"
+    },
+    {
+      "word": "高尚な",
+      "yomi": "こうしょうな",
+      "pos": "な形容詞",
+      "meaning": "고상한",
+      "category": "N1 형용사",
+      "example": "彼の趣味は高尚で文化的な内容が多い。",
+      "exampleKo": "그의 취미는 고상하고 문화적인 내용이 많다.",
+      "meaningEn": "noble, refined"
+    },
+    {
+      "word": "巧妙な",
+      "yomi": "こうみょうな",
+      "pos": "な形容詞",
+      "meaning": "교묘한",
+      "category": "N1 형용사",
+      "example": "巧妙なトリックに全員が騙された。",
+      "exampleKo": "교묘한 트릭에 모두가 속았다.",
+      "meaningEn": "clever, ingenious"
+    },
+    {
+      "word": "克明な",
+      "yomi": "こくめいな",
+      "pos": "な形容詞",
+      "meaning": "극명한, 매우 세밀한",
+      "category": "N1 형용사",
+      "example": "克明な記録が後世の研究に役立った。",
+      "exampleKo": "극명한 기록이 후세의 연구에 도움이 되었다.",
+      "meaningEn": "detailed, precise"
+    },
+    {
+      "word": "質素な",
+      "yomi": "しっそな",
+      "pos": "な形容詞",
+      "meaning": "검소한, 소탈한",
+      "category": "N1 형용사",
+      "example": "質素な生活を送りながら資産を蓄えた。",
+      "exampleKo": "검소한 생활을 하면서 자산을 축적했다.",
+      "meaningEn": "simple, frugal"
+    },
+    {
+      "word": "柔軟な",
+      "yomi": "じゅうなんな",
+      "pos": "な形容詞",
+      "meaning": "유연한",
+      "category": "N1 형용사",
+      "example": "柔軟な思考が問題解決の鍵となる。",
+      "exampleKo": "유연한 사고가 문제 해결의 열쇠가 된다.",
+      "meaningEn": "flexible, adaptable"
+    },
+    {
+      "word": "迅速な",
+      "yomi": "じんそくな",
+      "pos": "な形容詞",
+      "meaning": "신속한",
+      "category": "N1 형용사",
+      "example": "迅速な対応が被害の拡大を防いだ。",
+      "exampleKo": "신속한 대응이 피해 확대를 막았다.",
+      "meaningEn": "swift, prompt"
+    },
+    {
+      "word": "健やかな",
+      "yomi": "すこやかな",
+      "pos": "な形容詞",
+      "meaning": "건강한",
+      "category": "N1 형용사",
+      "example": "子供が健やかに育つ環境を整えたい。",
+      "exampleKo": "아이가 건강하게 자라는 환경을 갖추고 싶다.",
+      "meaningEn": "healthy, vigorous"
+    },
+    {
+      "word": "速やかな",
+      "yomi": "すみやかな",
+      "pos": "な形容詞",
+      "meaning": "신속한",
+      "category": "N1 형용사",
+      "example": "速やかな解決が求められている。",
+      "exampleKo": "신속한 해결이 요구되고 있다.",
+      "meaningEn": "quick, speedy"
+    },
+    {
+      "word": "性急な",
+      "yomi": "せいきゅうな",
+      "pos": "な形容詞",
+      "meaning": "성급한",
+      "category": "N1 형용사",
+      "example": "性急な判断が後悔を招くことがある。",
+      "exampleKo": "성급한 판단이 후회를 불러올 수 있다.",
+      "meaningEn": "hasty, impatient"
+    },
+    {
+      "word": "精巧な",
+      "yomi": "せいこうな",
+      "pos": "な形容詞",
+      "meaning": "정교한",
+      "category": "N1 형용사",
+      "example": "精巧な細工の時計を贈り物にした。",
+      "exampleKo": "정교한 세공의 시계를 선물로 했다.",
+      "meaningEn": "elaborate, sophisticated"
+    },
+    {
+      "word": "切実な",
+      "yomi": "せつじつな",
+      "pos": "な形容詞",
+      "meaning": "절실한",
+      "category": "N1 형용사",
+      "example": "被災者の切実な声に多くの人が心を動かされた。",
+      "exampleKo": "피재자의 절실한 목소리에 많은 사람이 마음이 움직였다.",
+      "meaningEn": "earnest, urgent"
+    },
+    {
+      "word": "繊細な",
+      "yomi": "せんさいな",
+      "pos": "な形容詞",
+      "meaning": "섬세한",
+      "category": "N1 형용사",
+      "example": "彼女の繊細な感性が作品に表れている。",
+      "exampleKo": "그녀의 섬세한 감성이 작품에 나타나 있다.",
+      "meaningEn": "delicate, sensitive"
+    },
+    {
+      "word": "巧みな",
+      "yomi": "たくみな",
+      "pos": "な形容詞",
+      "meaning": "교묘한, 기교 있는",
+      "category": "N1 형용사",
+      "example": "彼は巧みな話術で聴衆を惹きつけた。",
+      "exampleKo": "그는 교묘한 화술로 청중을 끌어들였다.",
+      "meaningEn": "skillful, adroit"
+    },
+    {
+      "word": "丹念な",
+      "yomi": "たんねんな",
+      "pos": "な形容詞",
+      "meaning": "정성스런, 꼼꼼한",
+      "category": "N1 형용사",
+      "example": "丹念な調査が真実の発見につながった。",
+      "exampleKo": "꼼꼼한 조사가 진실 발견으로 이어졌다.",
+      "meaningEn": "careful, painstaking"
+    },
+    {
+      "word": "手薄な",
+      "yomi": "てうすな",
+      "pos": "な形容詞",
+      "meaning": "허술한, 불충분한",
+      "category": "N1 형용사",
+      "example": "警備が手薄な時間帯を狙って侵入された。",
+      "exampleKo": "경비가 허술한 시간대를 노려 침입당했다.",
+      "meaningEn": "understaffed, inadequate"
+    },
+    {
+      "word": "的確な",
+      "yomi": "てきかくな",
+      "pos": "な形容詞",
+      "meaning": "정확한",
+      "category": "N1 형용사",
+      "example": "的確な指示のおかげで作業が順調に進んだ。",
+      "exampleKo": "정확한 지시 덕분에 작업이 순조롭게 진행되었다.",
+      "meaningEn": "accurate, precise"
+    },
+    {
+      "word": "入念な",
+      "yomi": "にゅうねんな",
+      "pos": "な形容詞",
+      "meaning": "꼼꼼한, 정성스런",
+      "category": "N1 형용사",
+      "example": "入念な準備が大会での好結果につながった。",
+      "exampleKo": "꼼꼼한 준비가 대회에서의 좋은 결과로 이어졌다.",
+      "meaningEn": "careful, thorough"
+    },
+    {
+      "word": "煩雑な",
+      "yomi": "はんざつな",
+      "pos": "な形容詞",
+      "meaning": "번잡한",
+      "category": "N1 형용사",
+      "example": "手続きが煩雑で多くの時間が必要だった。",
+      "exampleKo": "절차가 번잡하여 많은 시간이 필요했다.",
+      "meaningEn": "complicated, cumbersome"
+    },
+    {
+      "word": "密かな",
+      "yomi": "ひそかな",
+      "pos": "な形容詞",
+      "meaning": "은밀한",
+      "category": "N1 형용사",
+      "example": "彼女は密かに相手への気持ちを抱いていた。",
+      "exampleKo": "그녀는 은밀히 상대방에 대한 마음을 품고 있었다.",
+      "meaningEn": "secret, stealthy"
+    },
+    {
+      "word": "頻繁な",
+      "yomi": "ひんぱんな",
+      "pos": "な形容詞",
+      "meaning": "빈번한",
+      "category": "N1 형용사",
+      "example": "頻繁な会議で業務が圧迫されている。",
+      "exampleKo": "빈번한 회의로 업무가 압박받고 있다.",
+      "meaningEn": "frequent, repeated"
+    },
+    {
+      "word": "不用意な",
+      "yomi": "ふよういな",
+      "pos": "な形容詞",
+      "meaning": "부주의한",
+      "category": "N1 형용사",
+      "example": "不用意な発言がトラブルを招いた。",
+      "exampleKo": "부주의한 발언이 트러블을 초래했다.",
+      "meaningEn": "careless, inadvertent"
+    },
+    {
+      "word": "膨大な",
+      "yomi": "ぼうだいな",
+      "pos": "な形容詞",
+      "meaning": "방대한",
+      "category": "N1 형용사",
+      "example": "膨大なデータを処理するのに時間がかかった。",
+      "exampleKo": "방대한 데이터를 처리하는 데 시간이 걸렸다.",
+      "meaningEn": "enormous, vast"
+    },
+    {
+      "word": "無残な",
+      "yomi": "むざんな",
+      "pos": "な形容詞",
+      "meaning": "무참한, 잔인한",
+      "category": "N1 형용사",
+      "example": "火災で建物が無残な姿になった。",
+      "exampleKo": "화재로 건물이 무참한 모습이 되었다.",
+      "meaningEn": "cruel, brutal"
+    },
+    {
+      "word": "無邪気な",
+      "yomi": "むじゃきな",
+      "pos": "な形容詞",
+      "meaning": "순진한",
+      "category": "N1 형용사",
+      "example": "子供の無邪気な笑顔に心が和んだ。",
+      "exampleKo": "아이의 순진한 웃음에 마음이 따뜻해졌다.",
+      "meaningEn": "innocent, naive"
+    },
+    {
+      "word": "無謀な",
+      "yomi": "むぼうな",
+      "pos": "な形容詞",
+      "meaning": "무모한",
+      "category": "N1 형용사",
+      "example": "無謀な計画を強行して失敗に終わった。",
+      "exampleKo": "무모한 계획을 강행하다 실패로 끝났다.",
+      "meaningEn": "reckless, rash"
+    },
+    {
+      "word": "綿密な",
+      "yomi": "めんみつな",
+      "pos": "な形容詞",
+      "meaning": "면밀한",
+      "category": "N1 형용사",
+      "example": "綿密な計画を立てて実行に移した。",
+      "exampleKo": "면밀한 계획을 세워 실행에 옮겼다.",
+      "meaningEn": "meticulous, minute"
+    },
+    {
+      "word": "愉快な",
+      "yomi": "ゆかいな",
+      "pos": "な形容詞",
+      "meaning": "유쾌한",
+      "category": "N1 형용사",
+      "example": "愉快な仲間たちと過ごした夏休みが忘れられない。",
+      "exampleKo": "유쾌한 친구들과 보낸 여름방학을 잊을 수 없다.",
+      "meaningEn": "pleasant, cheerful"
+    },
+    {
+      "word": "緩やかな",
+      "yomi": "ゆるやかな",
+      "pos": "な形容詞",
+      "meaning": "완만한",
+      "category": "N1 형용사",
+      "example": "緩やかな坂道を自転車でゆっくり下った。",
+      "exampleKo": "완만한 비탈길을 자전거로 천천히 내려갔다.",
+      "meaningEn": "gentle, gradual"
+    },
+    {
+      "word": "幼稚な",
+      "yomi": "ようちな",
+      "pos": "な形容詞",
+      "meaning": "유치한",
+      "category": "N1 형용사",
+      "example": "その言い訳は幼稚で誰も信じなかった。",
+      "exampleKo": "그 변명은 유치해서 아무도 믿지 않았다.",
+      "meaningEn": "childish, immature"
+    },
+    {
+      "word": "冷淡な",
+      "yomi": "れいたんな",
+      "pos": "な形容詞",
+      "meaning": "냉담한",
+      "category": "N1 형용사",
+      "example": "彼の冷淡な態度に周囲は戸惑った。",
+      "exampleKo": "그의 냉담한 태도에 주변이 당황했다.",
+      "meaningEn": "cold, indifferent"
+    },
+    {
+      "word": "露骨な",
+      "yomi": "ろこつな",
+      "pos": "な形容詞",
+      "meaning": "노골적인",
+      "category": "N1 형용사",
+      "example": "露骨な差別発言が批判を集めた。",
+      "exampleKo": "노골적인 차별 발언이 비판을 받았다.",
+      "meaningEn": "blunt, explicit"
+    },
+    {
+      "word": "圧迫",
+      "yomi": "あっぱく",
+      "pos": "名詞",
+      "meaning": "압박",
+      "category": "N1 명사",
+      "example": "長時間の圧迫で神経に障害が出た。",
+      "exampleKo": "장시간의 압박으로 신경에 장애가 생겼다.",
+      "meaningEn": "pressure, oppression"
+    },
+    {
+      "word": "跡地",
+      "yomi": "あとち",
+      "pos": "名詞",
+      "meaning": "철거 부지, 철거 후 공터",
+      "category": "N1 명사",
+      "example": "工場の跡地に公園が整備された。",
+      "exampleKo": "공장 터에 공원이 조성되었다.",
+      "meaningEn": "site, former site"
+    },
+    {
+      "word": "安静",
+      "yomi": "あんせい",
+      "pos": "名詞",
+      "meaning": "안정, 평온",
+      "category": "N1 명사",
+      "example": "医師に安静を命じられて1週間休んだ。",
+      "exampleKo": "의사에게 안정을 명받아 1주일 쉬었다.",
+      "meaningEn": "rest, repose"
+    },
+    {
+      "word": "安堵",
+      "yomi": "あんど",
+      "pos": "名詞",
+      "meaning": "안도, 안심",
+      "category": "N1 명사",
+      "example": "無事の連絡を受けて安堵の表情を見せた。",
+      "exampleKo": "무사하다는 연락을 받고 안도의 표정을 보였다.",
+      "meaningEn": "relief, reassurance"
+    },
+    {
+      "word": "意気込み",
+      "yomi": "いきごみ",
+      "pos": "名詞",
+      "meaning": "패기, 의욕",
+      "category": "N1 명사",
+      "example": "新入社員の意気込みに先輩も刺激を受けた。",
+      "exampleKo": "신입 사원의 패기에 선배도 자극을 받았다.",
+      "meaningEn": "enthusiasm, drive"
+    },
+    {
+      "word": "憤り",
+      "yomi": "いきどおり",
+      "pos": "名詞",
+      "meaning": "분노",
+      "category": "N1 명사",
+      "example": "不公平な扱いへの憤りが爆発した。",
+      "exampleKo": "불공평한 대우에 대한 분노가 폭발했다.",
+      "meaningEn": "anger, indignation"
+    },
+    {
+      "word": "憩い",
+      "yomi": "いこい",
+      "pos": "名詞",
+      "meaning": "휴식",
+      "category": "N1 명사",
+      "example": "都市の中の公園は市民の憩いの場だ。",
+      "exampleKo": "도시 속의 공원은 시민의 휴식 공간이다.",
+      "meaningEn": "rest, relaxation"
+    },
+    {
+      "word": "意地",
+      "yomi": "いじ",
+      "pos": "名詞",
+      "meaning": "고집",
+      "category": "N1 명사",
+      "example": "彼は意地を張って謝ろうとしなかった。",
+      "exampleKo": "그는 고집을 부려 사과하려 하지 않았다.",
+      "meaningEn": "stubbornness, willpower"
+    },
+    {
+      "word": "異色",
+      "yomi": "いしょく",
+      "pos": "名詞",
+      "meaning": "이색, 매우 특색 있음",
+      "category": "N1 명사",
+      "example": "異色の経歴を持つ候補者が注目を集めた。",
+      "exampleKo": "이색적인 경력을 가진 후보자가 주목을 받았다.",
+      "meaningEn": "unique, distinctive"
+    },
+    {
+      "word": "委託",
+      "yomi": "いたく",
+      "pos": "名詞",
+      "meaning": "위탁",
+      "category": "N1 명사",
+      "example": "業務の一部を外部業者に委託した。",
+      "exampleKo": "업무의 일부를 외부 업체에 위탁했다.",
+      "meaningEn": "consignment, commission"
+    },
+    {
+      "word": "一環",
+      "yomi": "いっかん",
+      "pos": "名詞",
+      "meaning": "일환",
+      "category": "N1 명사",
+      "example": "環境保護の一環としてゴミ拾いを行った。",
+      "exampleKo": "환경 보호의 일환으로 쓰레기 줍기를 실시했다.",
+      "meaningEn": "part of, link in a chain"
+    },
+    {
+      "word": "逸材",
+      "yomi": "いつざい",
+      "pos": "名詞",
+      "meaning": "일재, 뛰어난 인재",
+      "category": "N1 명사",
+      "example": "コーチは彼を将来有望な逸材と評した。",
+      "exampleKo": "코치는 그를 장래가 촉망되는 뛰어난 인재로 평했다.",
+      "meaningEn": "gifted person, outstanding talent"
+    },
+    {
+      "word": "一掃",
+      "yomi": "いっそう",
+      "pos": "名詞",
+      "meaning": "일소, 소탕",
+      "category": "N1 명사",
+      "example": "不正の一掃を目指して改革が始まった。",
+      "exampleKo": "부정 소탕을 목표로 개혁이 시작되었다.",
+      "meaningEn": "sweeping away, elimination"
+    },
+    {
+      "word": "偽り",
+      "yomi": "いつわり",
+      "pos": "名詞",
+      "meaning": "허위",
+      "category": "N1 명사",
+      "example": "偽りのない言葉で気持ちを伝えた。",
+      "exampleKo": "거짓 없는 말로 마음을 전했다.",
+      "meaningEn": "falsehood, deception"
+    },
+    {
+      "word": "糸口",
+      "yomi": "いとぐち",
+      "pos": "名詞",
+      "meaning": "단서, 실마리",
+      "category": "N1 명사",
+      "example": "長い議論の末、解決の糸口が見えてきた。",
+      "exampleKo": "오랜 논의 끝에 해결의 실마리가 보이기 시작했다.",
+      "meaningEn": "clue, beginning"
+    },
+    {
+      "word": "嫌み",
+      "yomi": "いやみ",
+      "pos": "名詞",
+      "meaning": "불쾌한 언행",
+      "category": "N1 명사",
+      "example": "彼の嫌みな言い方が場の雰囲気を悪くした。",
+      "exampleKo": "그의 불쾌한 말투가 자리의 분위기를 해쳤다.",
+      "meaningEn": "sarcasm, unpleasant remark"
+    },
+    {
+      "word": "依頼",
+      "yomi": "いらい",
+      "pos": "名詞",
+      "meaning": "의뢰",
+      "category": "N1 명사",
+      "example": "弁護士に離婚手続きの依頼をした。",
+      "exampleKo": "변호사에게 이혼 절차 의뢰를 했다.",
+      "meaningEn": "request, commission"
+    },
+    {
+      "word": "印鑑",
+      "yomi": "いんかん",
+      "pos": "名詞",
+      "meaning": "인감",
+      "category": "N1 명사",
+      "example": "重要な書類には必ず印鑑が必要だ。",
+      "exampleKo": "중요한 서류에는 반드시 인감이 필요하다.",
+      "meaningEn": "personal seal, stamp"
+    },
+    {
+      "word": "内訳",
+      "yomi": "うちわけ",
+      "pos": "名詞",
+      "meaning": "내역",
+      "category": "N1 명사",
+      "example": "費用の内訳を明細書で確認した。",
+      "exampleKo": "비용 내역을 명세서로 확인했다.",
+      "meaningEn": "breakdown, details"
+    },
+    {
+      "word": "器",
+      "yomi": "うつわ",
+      "pos": "名詞",
+      "meaning": "그릇",
+      "category": "N1 명사",
+      "example": "彼女はリーダーとしての器を持っている。",
+      "exampleKo": "그녀는 리더로서의 그릇을 가지고 있다.",
+      "meaningEn": "vessel, capacity"
+    },
+    {
+      "word": "裏付け",
+      "yomi": "うらづけ",
+      "pos": "名詞",
+      "meaning": "뒷받침, 증거",
+      "category": "N1 명사",
+      "example": "証言を裏付ける物的証拠が見つかった。",
+      "exampleKo": "증언을 뒷받침하는 물적 증거가 발견되었다.",
+      "meaningEn": "backing, corroboration"
+    },
+    {
+      "word": "裏腹",
+      "yomi": "うらはら",
+      "pos": "名詞",
+      "meaning": "정반대, 모순",
+      "category": "N1 명사",
+      "example": "言葉と行動が裏腹で信頼を失った。",
+      "exampleKo": "말과 행동이 모순되어 신뢰를 잃었다.",
+      "meaningEn": "contrary, opposite"
+    },
+    {
+      "word": "影響",
+      "yomi": "えいきょう",
+      "pos": "名詞",
+      "meaning": "영향",
+      "category": "N1 명사",
+      "example": "その政策は市民生活に大きな影響を与えた。",
+      "exampleKo": "그 정책은 시민 생활에 큰 영향을 주었다.",
+      "meaningEn": "influence, effect"
+    },
+    {
+      "word": "閲覧",
+      "yomi": "えつらん",
+      "pos": "名詞",
+      "meaning": "열람",
+      "category": "N1 명사",
+      "example": "図書館で古い新聞を閲覧した。",
+      "exampleKo": "도서관에서 오래된 신문을 열람했다.",
+      "meaningEn": "browsing, reading"
+    },
+    {
+      "word": "獲物",
+      "yomi": "えもの",
+      "pos": "名詞",
+      "meaning": "사냥감",
+      "category": "N1 명사",
+      "example": "猟師は山で大きな獲物を仕留めた。",
+      "exampleKo": "사냥꾼은 산에서 큰 사냥감을 잡았다.",
+      "meaningEn": "prey, game"
+    },
+    {
+      "word": "遠隔",
+      "yomi": "えんかく",
+      "pos": "名詞",
+      "meaning": "원격",
+      "category": "N1 명사",
+      "example": "遠隔操作で機械をコントロールした。",
+      "exampleKo": "원격 조작으로 기계를 제어했다.",
+      "meaningEn": "remote, distant"
+    },
+    {
+      "word": "大筋",
+      "yomi": "おおすじ",
+      "pos": "名詞",
+      "meaning": "요점, 대강",
+      "category": "N1 명사",
+      "example": "会議での議論の大筋はまとまった。",
+      "exampleKo": "회의에서의 논의 대강은 정리되었다.",
+      "meaningEn": "outline, general idea"
+    },
+    {
+      "word": "改革",
+      "yomi": "かいかく",
+      "pos": "名詞",
+      "meaning": "개혁",
+      "category": "N1 명사",
+      "example": "教育改革に向けた議論が活発に行われた。",
+      "exampleKo": "교육 개혁을 향한 논의가 활발하게 이루어졌다.",
+      "meaningEn": "reform, renovation"
+    },
+    {
+      "word": "回顧",
+      "yomi": "かいこ",
+      "pos": "名詞",
+      "meaning": "회고",
+      "category": "N1 명사",
+      "example": "回顧展で彼の半生の作品が展示された。",
+      "exampleKo": "회고전에서 그의 반생의 작품이 전시되었다.",
+      "meaningEn": "retrospect, recollection"
+    },
+    {
+      "word": "会心",
+      "yomi": "かいしん",
+      "pos": "名詞",
+      "meaning": "회심, 만족스러움",
+      "category": "N1 명사",
+      "example": "会心の出来栄えに本人も満足した。",
+      "exampleKo": "회심의 완성도에 본인도 만족했다.",
+      "meaningEn": "satisfaction, gratification"
+    },
+    {
+      "word": "該当",
+      "yomi": "がいとう",
+      "pos": "名詞",
+      "meaning": "해당",
+      "category": "N1 명사",
+      "example": "条件に該当する場合は申請できる。",
+      "exampleKo": "조건에 해당하는 경우에는 신청할 수 있다.",
+      "meaningEn": "applicable, relevant"
+    },
+    {
+      "word": "概略",
+      "yomi": "がいりゃく",
+      "pos": "名詞",
+      "meaning": "개략",
+      "category": "N1 명사",
+      "example": "発表の前に概略を説明してから始めた。",
+      "exampleKo": "발표 전에 개략을 설명하고 나서 시작했다.",
+      "meaningEn": "outline, summary"
+    },
+    {
+      "word": "核心",
+      "yomi": "かくしん",
+      "pos": "名詞",
+      "meaning": "핵심",
+      "category": "N1 명사",
+      "example": "議論の核心に触れる発言が出た。",
+      "exampleKo": "논의의 핵심에 닿는 발언이 나왔다.",
+      "meaningEn": "core, crux"
+    },
+    {
+      "word": "革新",
+      "yomi": "かくしん",
+      "pos": "名詞",
+      "meaning": "혁신",
+      "category": "N1 명사",
+      "example": "技術革新が産業の形を大きく変えた。",
+      "exampleKo": "기술 혁신이 산업의 형태를 크게 바꿨다.",
+      "meaningEn": "innovation, reform"
+    },
+    {
+      "word": "格段",
+      "yomi": "かくだん",
+      "pos": "名詞",
+      "meaning": "현격함, 차이가 큼",
+      "category": "N1 명사",
+      "example": "努力の結果、成績が格段に上がった。",
+      "exampleKo": "노력의 결과, 성적이 현격히 올랐다.",
+      "meaningEn": "remarkable, considerable"
+    },
+    {
+      "word": "過疎",
+      "yomi": "かそ",
+      "pos": "名詞",
+      "meaning": "과소, 지나치게 드묾",
+      "category": "N1 명사",
+      "example": "過疎が進む地方では担い手不足が深刻だ。",
+      "exampleKo": "과소화가 진행되는 지방에서는 일손 부족이 심각하다.",
+      "meaningEn": "depopulation, sparse population"
+    },
+    {
+      "word": "合致",
+      "yomi": "がっち",
+      "pos": "名詞",
+      "meaning": "합치, 일치",
+      "category": "N1 명사",
+      "example": "双方の意見が合致して契約が成立した。",
+      "exampleKo": "양측의 의견이 합치되어 계약이 성립되었다.",
+      "meaningEn": "agreement, coincidence"
+    },
+    {
+      "word": "合併",
+      "yomi": "がっぺい",
+      "pos": "名詞",
+      "meaning": "합병",
+      "category": "N1 명사",
+      "example": "二つの企業が合併して新会社が設立された。",
+      "exampleKo": "두 기업이 합병하여 새로운 회사가 설립되었다.",
+      "meaningEn": "merger, consolidation"
+    },
+    {
+      "word": "活躍",
+      "yomi": "かつやく",
+      "pos": "名詞",
+      "meaning": "활약",
+      "category": "N1 명사",
+      "example": "彼女は国際舞台で活躍する選手だ。",
+      "exampleKo": "그녀는 국제 무대에서 활약하는 선수다.",
+      "meaningEn": "activity, active role"
+    },
+    {
+      "word": "稼働",
+      "yomi": "かどう",
+      "pos": "名詞",
+      "meaning": "가동",
+      "category": "N1 명사",
+      "example": "新工場の稼働により生産量が増加した。",
+      "exampleKo": "새 공장 가동으로 생산량이 증가했다.",
+      "meaningEn": "operation, running"
+    },
+    {
+      "word": "過密",
+      "yomi": "かみつ",
+      "pos": "名詞",
+      "meaning": "과밀",
+      "category": "N1 명사",
+      "example": "過密なスケジュールで体を壊してしまった。",
+      "exampleKo": "과밀한 스케줄로 몸을 망가뜨리고 말았다.",
+      "meaningEn": "overcrowded, overly dense"
+    },
+    {
+      "word": "歓迎",
+      "yomi": "かんげい",
+      "pos": "名詞",
+      "meaning": "환영",
+      "category": "N1 명사",
+      "example": "新入社員を歓迎するパーティーが開かれた。",
+      "exampleKo": "신입 사원을 환영하는 파티가 열렸다.",
+      "meaningEn": "welcome, reception"
+    },
+    {
+      "word": "完結",
+      "yomi": "かんけつ",
+      "pos": "名詞",
+      "meaning": "완결",
+      "category": "N1 명사",
+      "example": "長編小説がついに完結した。",
+      "exampleKo": "장편 소설이 드디어 완결되었다.",
+      "meaningEn": "completion, conclusion"
+    },
+    {
+      "word": "還元",
+      "yomi": "かんげん",
+      "pos": "名詞",
+      "meaning": "환원",
+      "category": "N1 명사",
+      "example": "利益を社会に還元する活動を続けている。",
+      "exampleKo": "이익을 사회에 환원하는 활동을 계속하고 있다.",
+      "meaningEn": "reduction, return"
+    },
+    {
+      "word": "感染",
+      "yomi": "かんせん",
+      "pos": "名詞",
+      "meaning": "감염",
+      "category": "N1 명사",
+      "example": "インフルエンザに感染して1週間休んだ。",
+      "exampleKo": "독감에 감염되어 1주일 쉬었다.",
+      "meaningEn": "infection, contagion"
+    },
+    {
+      "word": "勘違い",
+      "yomi": "かんちがい",
+      "pos": "名詞",
+      "meaning": "착각",
+      "category": "N1 명사",
+      "example": "日程を勘違いして会議に遅刻した。",
+      "exampleKo": "일정을 착각하여 회의에 지각했다.",
+      "meaningEn": "misunderstanding, misconception"
+    },
+    {
+      "word": "鑑定",
+      "yomi": "かんてい",
+      "pos": "名詞",
+      "meaning": "감정, 판정",
+      "category": "N1 명사",
+      "example": "専門家による作品の鑑定が行われた。",
+      "exampleKo": "전문가에 의한 작품 감정이 이루어졌다.",
+      "meaningEn": "appraisal, assessment"
+    },
+    {
+      "word": "慣例",
+      "yomi": "かんれい",
+      "pos": "名詞",
+      "meaning": "관례",
+      "category": "N1 명사",
+      "example": "この式典は古くからの慣例に従って行われる。",
+      "exampleKo": "이 식전은 오래된 관례에 따라 진행된다.",
+      "meaningEn": "custom, convention"
+    },
+    {
+      "word": "緩和",
+      "yomi": "かんわ",
+      "pos": "名詞",
+      "meaning": "완화",
+      "category": "N1 명사",
+      "example": "規制の緩和で新規参入が増えた。",
+      "exampleKo": "규제 완화로 신규 진입이 늘었다.",
+      "meaningEn": "relaxation, easing"
+    },
+    {
+      "word": "記載",
+      "yomi": "きさい",
+      "pos": "名詞",
+      "meaning": "기재",
+      "category": "N1 명사",
+      "example": "必要事項を漏れなく記載してください。",
+      "exampleKo": "필요 사항을 빠짐없이 기재해 주세요.",
+      "meaningEn": "entry, description"
+    },
+    {
+      "word": "兆し",
+      "yomi": "きざし",
+      "pos": "名詞",
+      "meaning": "조짐, 징조",
+      "category": "N1 명사",
+      "example": "景気回復の兆しが見え始めた。",
+      "exampleKo": "경기 회복의 조짐이 보이기 시작했다.",
+      "meaningEn": "sign, indication"
+    },
+    {
+      "word": "儀式",
+      "yomi": "ぎしき",
+      "pos": "名詞",
+      "meaning": "의식",
+      "category": "N1 명사",
+      "example": "伝統的な儀式が厳かに執り行われた。",
+      "exampleKo": "전통적인 의식이 엄숙하게 치러졌다.",
+      "meaningEn": "ceremony, ritual"
+    },
+    {
+      "word": "偽造",
+      "yomi": "ぎぞう",
+      "pos": "名詞",
+      "meaning": "위조",
+      "category": "N1 명사",
+      "example": "偽造パスポートを使った密入国が発覚した。",
+      "exampleKo": "위조 여권을 사용한 밀입국이 발각되었다.",
+      "meaningEn": "forgery, counterfeiting"
+    },
+    {
+      "word": "軌道",
+      "yomi": "きどう",
+      "pos": "名詞",
+      "meaning": "궤도",
+      "category": "N1 명사",
+      "example": "ロケットが予定の軌道に乗った。",
+      "exampleKo": "로켓이 예정된 궤도에 올랐다.",
+      "meaningEn": "orbit, track"
+    },
+    {
+      "word": "起動",
+      "yomi": "きどう",
+      "pos": "名詞",
+      "meaning": "기동, 시동",
+      "category": "N1 명사",
+      "example": "パソコンの起動に時間がかかるようになった。",
+      "exampleKo": "컴퓨터 시동에 시간이 걸리게 되었다.",
+      "meaningEn": "startup, activation"
+    },
+    {
+      "word": "基盤",
+      "yomi": "きばん",
+      "pos": "名詞",
+      "meaning": "기반",
+      "category": "N1 명사",
+      "example": "信頼関係が協力の基盤となる。",
+      "exampleKo": "신뢰 관계가 협력의 기반이 된다.",
+      "meaningEn": "foundation, base"
+    },
+    {
+      "word": "起伏",
+      "yomi": "きふく",
+      "pos": "名詞",
+      "meaning": "기복",
+      "category": "N1 명사",
+      "example": "人生には起伏があるものだ。",
+      "exampleKo": "인생에는 기복이 있는 법이다.",
+      "meaningEn": "ups and downs, undulation"
+    },
+    {
+      "word": "規模",
+      "yomi": "きぼ",
+      "pos": "名詞",
+      "meaning": "규모",
+      "category": "N1 명사",
+      "example": "この事業は規模が大きく多くの資金が必要だ。",
+      "exampleKo": "이 사업은 규모가 커서 많은 자금이 필요하다.",
+      "meaningEn": "scale, scope"
+    },
+    {
+      "word": "脚本",
+      "yomi": "きゃくほん",
+      "pos": "名詞",
+      "meaning": "각본",
+      "category": "N1 명사",
+      "example": "映画の脚本を書くのに半年かかった。",
+      "exampleKo": "영화 각본을 쓰는 데 반 년이 걸렸다.",
+      "meaningEn": "script, screenplay"
+    },
+    {
+      "word": "救援",
+      "yomi": "きゅうえん",
+      "pos": "名詞",
+      "meaning": "구원",
+      "category": "N1 명사",
+      "example": "被災地に救援物資が届けられた。",
+      "exampleKo": "피재지에 구원 물자가 전달되었다.",
+      "meaningEn": "rescue, relief"
+    },
+    {
+      "word": "究明",
+      "yomi": "きゅうめい",
+      "pos": "名詞",
+      "meaning": "규명, 밝혀냄",
+      "category": "N1 명사",
+      "example": "事故原因の究明が急がれている。",
+      "exampleKo": "사고 원인 규명이 시급하다.",
+      "meaningEn": "investigation, elucidation"
+    },
+    {
+      "word": "丘陵",
+      "yomi": "きゅうりょう",
+      "pos": "名詞",
+      "meaning": "구릉, 언덕",
+      "category": "N1 명사",
+      "example": "なだらかな丘陵が続く美しい風景だった。",
+      "exampleKo": "완만한 구릉이 이어지는 아름다운 풍경이었다.",
+      "meaningEn": "hill, highland"
+    },
+    {
+      "word": "寄与",
+      "yomi": "きよ",
+      "pos": "名詞",
+      "meaning": "기여",
+      "category": "N1 명사",
+      "example": "彼の研究は医学の発展に大きく寄与した。",
+      "exampleKo": "그의 연구는 의학 발전에 크게 기여했다.",
+      "meaningEn": "contribution, service"
+    },
+    {
+      "word": "教訓",
+      "yomi": "きょうくん",
+      "pos": "名詞",
+      "meaning": "교훈",
+      "category": "N1 명사",
+      "example": "失敗から得た教訓を次に生かす。",
+      "exampleKo": "실패에서 얻은 교훈을 다음에 살린다.",
+      "meaningEn": "lesson, moral"
+    },
+    {
+      "word": "享受",
+      "yomi": "きょうじゅ",
+      "pos": "名詞",
+      "meaning": "향유, 누리는 것",
+      "category": "N1 명사",
+      "example": "豊かな自然の恩恵を享受できる地域だ。",
+      "exampleKo": "풍요로운 자연의 혜택을 향유할 수 있는 지역이다.",
+      "meaningEn": "enjoyment, appreciation"
+    },
+    {
+      "word": "凝縮",
+      "yomi": "ぎょうしゅく",
+      "pos": "名詞",
+      "meaning": "응축",
+      "category": "N1 명사",
+      "example": "長年の経験が凝縮された作品だ。",
+      "exampleKo": "오랜 경험이 응축된 작품이다.",
+      "meaningEn": "condensation, concentration"
+    },
+    {
+      "word": "仰天",
+      "yomi": "ぎょうてん",
+      "pos": "名詞",
+      "meaning": "경악, 몹시 놀람",
+      "category": "N1 명사",
+      "example": "突然の発表に全員が仰天した。",
+      "exampleKo": "갑작스러운 발표에 모두가 경악했다.",
+      "meaningEn": "astonishment, amazement"
+    },
+    {
+      "word": "供与",
+      "yomi": "きょうよ",
+      "pos": "名詞",
+      "meaning": "공여, 제공",
+      "category": "N1 명사",
+      "example": "医薬品の供与を通じて途上国を支援した。",
+      "exampleKo": "의약품 공여를 통해 개발도상국을 지원했다.",
+      "meaningEn": "supply, provision"
+    },
+    {
+      "word": "郷里",
+      "yomi": "きょうり",
+      "pos": "名詞",
+      "meaning": "고향",
+      "category": "N1 명사",
+      "example": "故郷の郷里に帰って農業を始めた。",
+      "exampleKo": "고향에 돌아가 농업을 시작했다.",
+      "meaningEn": "hometown, native place"
+    },
+    {
+      "word": "巨匠",
+      "yomi": "きょしょう",
+      "pos": "名詞",
+      "meaning": "거장",
+      "category": "N1 명사",
+      "example": "その画家は20世紀を代表する巨匠だ。",
+      "exampleKo": "그 화가는 20세기를 대표하는 거장이다.",
+      "meaningEn": "master, great artist"
+    },
+    {
+      "word": "近接",
+      "yomi": "きんせつ",
+      "pos": "名詞",
+      "meaning": "근접",
+      "category": "N1 명사",
+      "example": "空港に近接した場所にホテルを取った。",
+      "exampleKo": "공항에 근접한 장소에 호텔을 잡았다.",
+      "meaningEn": "proximity, adjacency"
+    },
+    {
+      "word": "苦境",
+      "yomi": "くきょう",
+      "pos": "名詞",
+      "meaning": "곤경",
+      "category": "N1 명사",
+      "example": "彼は苦境に立たされても諦めなかった。",
+      "exampleKo": "그는 곤경에 처해도 포기하지 않았다.",
+      "meaningEn": "hardship, predicament"
+    },
+    {
+      "word": "駆使",
+      "yomi": "くし",
+      "pos": "名詞",
+      "meaning": "구사, 능숙하게 사용함",
+      "category": "N1 명사",
+      "example": "複数の言語を駆使して交渉を進めた。",
+      "exampleKo": "여러 언어를 구사하여 교섭을 진행했다.",
+      "meaningEn": "full use, command of"
+    },
+    {
+      "word": "苦情",
+      "yomi": "くじょう",
+      "pos": "名詞",
+      "meaning": "클레임, 불만",
+      "category": "N1 명사",
+      "example": "商品の品質に対して苦情が相次いだ。",
+      "exampleKo": "상품 품질에 대한 불만이 잇달았다.",
+      "meaningEn": "complaint, grievance"
+    },
+    {
+      "word": "工面",
+      "yomi": "くめん",
+      "pos": "名詞",
+      "meaning": "자금 마련",
+      "category": "N1 명사",
+      "example": "旅費の工面に苦労した。",
+      "exampleKo": "여비 마련에 고생했다.",
+      "meaningEn": "raising funds, managing"
+    },
+    {
+      "word": "暗闇",
+      "yomi": "くらやみ",
+      "pos": "名詞",
+      "meaning": "어둠",
+      "category": "N1 명사",
+      "example": "停電で建物が暗闇に包まれた。",
+      "exampleKo": "정전으로 건물이 어둠에 감싸였다.",
+      "meaningEn": "darkness, the dark"
+    },
+    {
+      "word": "群衆",
+      "yomi": "ぐんしゅう",
+      "pos": "名詞",
+      "meaning": "군중",
+      "category": "N1 명사",
+      "example": "広場には大勢の群衆が集まっていた。",
+      "exampleKo": "광장에는 많은 군중이 모여 있었다.",
+      "meaningEn": "crowd, mob"
+    },
+    {
+      "word": "傾斜",
+      "yomi": "けいしゃ",
+      "pos": "名詞",
+      "meaning": "경사, 기울기",
+      "category": "N1 명사",
+      "example": "急な傾斜の道を慎重に歩いた。",
+      "exampleKo": "가파른 경사의 길을 조심스럽게 걸었다.",
+      "meaningEn": "slope, inclination"
+    },
+    {
+      "word": "刑罰",
+      "yomi": "けいばつ",
+      "pos": "名詞",
+      "meaning": "형벌",
+      "category": "N1 명사",
+      "example": "犯罪の種類によって刑罰の重さが異なる。",
+      "exampleKo": "범죄의 종류에 따라 형벌의 무게가 다르다.",
+      "meaningEn": "punishment, penalty"
+    },
+    {
+      "word": "欠陥",
+      "yomi": "けっかん",
+      "pos": "名詞",
+      "meaning": "결함",
+      "category": "N1 명사",
+      "example": "製品に欠陥が見つかり回収が行われた。",
+      "exampleKo": "제품에 결함이 발견되어 회수가 이루어졌다.",
+      "meaningEn": "defect, flaw"
+    },
+    {
+      "word": "欠如",
+      "yomi": "けつじょ",
+      "pos": "名詞",
+      "meaning": "결여",
+      "category": "N1 명사",
+      "example": "倫理観の欠如が不祥事の根本原因だ。",
+      "exampleKo": "윤리의식의 결여가 불미스러운 사건의 근본 원인이다.",
+      "meaningEn": "lack, absence"
+    },
+    {
+      "word": "結束",
+      "yomi": "けっそく",
+      "pos": "名詞",
+      "meaning": "결속",
+      "category": "N1 명사",
+      "example": "チームの結束が勝利をもたらした。",
+      "exampleKo": "팀의 결속이 승리를 가져왔다.",
+      "meaningEn": "unity, solidarity"
+    },
+    {
+      "word": "気配",
+      "yomi": "けはい",
+      "pos": "名詞",
+      "meaning": "기미, 기색",
+      "category": "N1 명사",
+      "example": "春の気配が感じられる陽気になった。",
+      "exampleKo": "봄의 기미가 느껴지는 날씨가 되었다.",
+      "meaningEn": "sign, indication"
+    },
+    {
+      "word": "権威",
+      "yomi": "けんい",
+      "pos": "名詞",
+      "meaning": "권위",
+      "category": "N1 명사",
+      "example": "その分野では世界的な権威として知られる。",
+      "exampleKo": "그 분야에서는 세계적인 권위자로 알려져 있다.",
+      "meaningEn": "authority, power"
+    },
+    {
+      "word": "嫌悪感",
+      "yomi": "けんおかん",
+      "pos": "名詞",
+      "meaning": "혐오감",
+      "category": "N1 명사",
+      "example": "暴力的な映像に強い嫌悪感を覚えた。",
+      "exampleKo": "폭력적인 영상에 강한 혐오감을 느꼈다.",
+      "meaningEn": "sense of disgust, revulsion"
+    },
+    {
+      "word": "後援",
+      "yomi": "こうえん",
+      "pos": "名詞",
+      "meaning": "후원",
+      "category": "N1 명사",
+      "example": "地元企業の後援を受けてイベントを開催した。",
+      "exampleKo": "지역 기업의 후원을 받아 이벤트를 개최했다.",
+      "meaningEn": "support, backing"
+    },
+    {
+      "word": "航海",
+      "yomi": "こうかい",
+      "pos": "名詞",
+      "meaning": "항해",
+      "category": "N1 명사",
+      "example": "船員たちは長い航海の末に帰港した。",
+      "exampleKo": "선원들은 긴 항해 끝에 귀항했다.",
+      "meaningEn": "voyage, navigation"
+    },
+    {
+      "word": "抗議",
+      "yomi": "こうぎ",
+      "pos": "名詞",
+      "meaning": "항의",
+      "category": "N1 명사",
+      "example": "不当な扱いに対して正式に抗議した。",
+      "exampleKo": "부당한 대우에 대해 정식으로 항의했다.",
+      "meaningEn": "protest, objection"
+    },
+    {
+      "word": "貢献",
+      "yomi": "こうけん",
+      "pos": "名詞",
+      "meaning": "공헌",
+      "category": "N1 명사",
+      "example": "彼の研究は社会に多大な貢献をした。",
+      "exampleKo": "그의 연구는 사회에 큰 공헌을 했다.",
+      "meaningEn": "contribution, service"
+    },
+    {
+      "word": "交渉",
+      "yomi": "こうしょう",
+      "pos": "名詞",
+      "meaning": "협상",
+      "category": "N1 명사",
+      "example": "粘り強い交渉の結果、条件を引き出した。",
+      "exampleKo": "끈기 있는 교섭 결과 조건을 이끌어냈다.",
+      "meaningEn": "negotiation, dealings"
+    },
+    {
+      "word": "高低",
+      "yomi": "こうてい",
+      "pos": "名詞",
+      "meaning": "고저, 높낮이",
+      "category": "N1 명사",
+      "example": "地形の高低を地図で確認した。",
+      "exampleKo": "지형의 고저를 지도로 확인했다.",
+      "meaningEn": "high and low, rise and fall"
+    },
+    {
+      "word": "購読",
+      "yomi": "こうどく",
+      "pos": "名詞",
+      "meaning": "구독",
+      "category": "N1 명사",
+      "example": "毎朝、デジタル版の新聞を購読している。",
+      "exampleKo": "매일 아침 디지털판 신문을 구독하고 있다.",
+      "meaningEn": "subscription, reading"
+    },
+    {
+      "word": "興奮",
+      "yomi": "こうふん",
+      "pos": "名詞",
+      "meaning": "흥분",
+      "category": "N1 명사",
+      "example": "決勝ゴールが決まって会場が興奮に包まれた。",
+      "exampleKo": "결승골이 터져 경기장이 흥분으로 감싸였다.",
+      "meaningEn": "excitement, stimulation"
+    },
+    {
+      "word": "互角",
+      "yomi": "ごかく",
+      "pos": "名詞",
+      "meaning": "호각, 백중세",
+      "category": "N1 명사",
+      "example": "両チームは互角の戦いを繰り広げた。",
+      "exampleKo": "양 팀은 호각의 싸움을 펼쳤다.",
+      "meaningEn": "even match, equal footing"
+    },
+    {
+      "word": "心構え",
+      "yomi": "こころがまえ",
+      "pos": "名詞",
+      "meaning": "마음가짐",
+      "category": "N1 명사",
+      "example": "困難に備えて心構えを持つことが重要だ。",
+      "exampleKo": "어려움에 대비하여 마음가짐을 갖는 것이 중요하다.",
+      "meaningEn": "readiness, mental preparation"
+    },
+    {
+      "word": "誤差",
+      "yomi": "ごさ",
+      "pos": "名詞",
+      "meaning": "오차",
+      "category": "N1 명사",
+      "example": "計測値に誤差が生じて再測定を行った。",
+      "exampleKo": "측정값에 오차가 생겨 재측정을 실시했다.",
+      "meaningEn": "error, margin of error"
+    },
+    {
+      "word": "誇張",
+      "yomi": "こちょう",
+      "pos": "名詞",
+      "meaning": "과장",
+      "category": "N1 명사",
+      "example": "彼の話は誇張が多くて信用できない。",
+      "exampleKo": "그의 이야기는 과장이 많아 믿을 수 없다.",
+      "meaningEn": "exaggeration, overstatement"
+    },
+    {
+      "word": "孤立",
+      "yomi": "こりつ",
+      "pos": "名詞",
+      "meaning": "고립",
+      "category": "N1 명사",
+      "example": "意見が対立して会議で孤立してしまった。",
+      "exampleKo": "의견이 대립하여 회의에서 고립되고 말았다.",
+      "meaningEn": "isolation, solitude"
+    },
+    {
+      "word": "根拠",
+      "yomi": "こんきょ",
+      "pos": "名詞",
+      "meaning": "근거",
+      "category": "N1 명사",
+      "example": "主張には明確な根拠が必要だ。",
+      "exampleKo": "주장에는 명확한 근거가 필요하다.",
+      "meaningEn": "basis, grounds"
+    },
+    {
+      "word": "根源",
+      "yomi": "こんげん",
+      "pos": "名詞",
+      "meaning": "근원",
+      "category": "N1 명사",
+      "example": "問題の根源を探ることが解決への道だ。",
+      "exampleKo": "문제의 근원을 찾는 것이 해결로 가는 길이다.",
+      "meaningEn": "root, origin"
+    },
+    {
+      "word": "献立",
+      "yomi": "こんだて",
+      "pos": "名詞",
+      "meaning": "식단, 메뉴",
+      "category": "N1 명사",
+      "example": "毎日の献立を考えるのが楽しい。",
+      "exampleKo": "매일의 식단을 생각하는 것이 즐겁다.",
+      "meaningEn": "menu, bill of fare"
+    },
+    {
+      "word": "在庫",
+      "yomi": "ざいこ",
+      "pos": "名詞",
+      "meaning": "재고",
+      "category": "N1 명사",
+      "example": "人気商品は在庫が少なくなっている。",
+      "exampleKo": "인기 상품은 재고가 줄어들고 있다.",
+      "meaningEn": "stock, inventory"
+    },
+    {
+      "word": "採算",
+      "yomi": "さいさん",
+      "pos": "名詞",
+      "meaning": "채산",
+      "category": "N1 명사",
+      "example": "採算が取れないプロジェクトは中止された。",
+      "exampleKo": "채산이 맞지 않는 프로젝트는 중단되었다.",
+      "meaningEn": "profitability, cost-effectiveness"
+    },
+    {
+      "word": "採取",
+      "yomi": "さいしゅ",
+      "pos": "名詞",
+      "meaning": "채취",
+      "category": "N1 명사",
+      "example": "研究のため山で植物のサンプルを採取した。",
+      "exampleKo": "연구를 위해 산에서 식물 샘플을 채취했다.",
+      "meaningEn": "collection, sampling"
+    },
+    {
+      "word": "細心",
+      "yomi": "さいしん",
+      "pos": "名詞",
+      "meaning": "세심함, 빈틈이 없음",
+      "category": "N1 명사",
+      "example": "細心の注意を払って手術を行った。",
+      "exampleKo": "세심한 주의를 기울여 수술을 실시했다.",
+      "meaningEn": "meticulous care, attention"
+    },
+    {
+      "word": "催促",
+      "yomi": "さいそく",
+      "pos": "名詞",
+      "meaning": "재촉",
+      "category": "N1 명사",
+      "example": "返事が遅れたため催促の連絡が来た。",
+      "exampleKo": "답장이 늦어져 재촉 연락이 왔다.",
+      "meaningEn": "urging, pressing"
+    },
+    {
+      "word": "栽培",
+      "yomi": "さいばい",
+      "pos": "名詞",
+      "meaning": "재배",
+      "category": "N1 명사",
+      "example": "家庭菜園でトマトを栽培している。",
+      "exampleKo": "텃밭에서 토마토를 재배하고 있다.",
+      "meaningEn": "cultivation, growing"
+    },
+    {
+      "word": "錯誤",
+      "yomi": "さくご",
+      "pos": "名詞",
+      "meaning": "착오",
+      "category": "N1 명사",
+      "example": "試行錯誤を繰り返しながら最善策を探した。",
+      "exampleKo": "시행착오를 반복하면서 최선책을 찾았다.",
+      "meaningEn": "error, blunder"
+    },
+    {
+      "word": "錯覚",
+      "yomi": "さっかく",
+      "pos": "名詞",
+      "meaning": "착각",
+      "category": "N1 명사",
+      "example": "遠近感の錯覚を利用したトリックアートだ。",
+      "exampleKo": "원근감의 착각을 이용한 트릭 아트다.",
+      "meaningEn": "illusion, hallucination"
+    },
+    {
+      "word": "殺菌",
+      "yomi": "さっきん",
+      "pos": "名詞",
+      "meaning": "살균",
+      "category": "N1 명사",
+      "example": "食器を熱湯で殺菌して清潔を保った。",
+      "exampleKo": "식기를 끓는 물로 살균하여 청결을 유지했다.",
+      "meaningEn": "sterilization, disinfection"
+    },
+    {
+      "word": "察知",
+      "yomi": "さっち",
+      "pos": "名詞",
+      "meaning": "감지, 탐지",
+      "category": "N1 명사",
+      "example": "異常を早期に察知して対策を取った。",
+      "exampleKo": "이상을 조기에 감지하여 대책을 취했다.",
+      "meaningEn": "detection, sensing"
+    },
+    {
+      "word": "殺到",
+      "yomi": "さっとう",
+      "pos": "名詞",
+      "meaning": "쇄도, 세차게 몰려듦",
+      "category": "N1 명사",
+      "example": "チケット販売が始まると注文が殺到した。",
+      "exampleKo": "티켓 판매가 시작되자 주문이 쇄도했다.",
+      "meaningEn": "rush, flood"
+    },
+    {
+      "word": "雑踏",
+      "yomi": "ざっとう",
+      "pos": "名詞",
+      "meaning": "혼잡",
+      "category": "N1 명사",
+      "example": "祭りの日、駅周辺は雑踏で歩きにくかった。",
+      "exampleKo": "축제날, 역 주변은 혼잡하여 걷기 힘들었다.",
+      "meaningEn": "crowd, congestion"
+    },
+    {
+      "word": "砂糖",
+      "yomi": "さとう",
+      "pos": "名詞",
+      "meaning": "설탕",
+      "category": "N1 명사",
+      "example": "コーヒーに砂糖を入れすぎてしまった。",
+      "exampleKo": "커피에 설탕을 너무 많이 넣어버렸다.",
+      "meaningEn": "sugar"
+    },
+    {
+      "word": "砂漠",
+      "yomi": "さばく",
+      "pos": "名詞",
+      "meaning": "사막",
+      "category": "N1 명사",
+      "example": "広大な砂漠を横断する冒険が始まった。",
+      "exampleKo": "광대한 사막을 횡단하는 모험이 시작되었다.",
+      "meaningEn": "desert"
+    },
+    {
+      "word": "山岳",
+      "yomi": "さんがく",
+      "pos": "名詞",
+      "meaning": "산악",
+      "category": "N1 명사",
+      "example": "山岳地帯では天気の変化が急だ。",
+      "exampleKo": "산악 지대에서는 날씨 변화가 급격하다.",
+      "meaningEn": "mountains, alpine"
+    },
+    {
+      "word": "飼育",
+      "yomi": "しいく",
+      "pos": "名詞",
+      "meaning": "사육",
+      "category": "N1 명사",
+      "example": "動物園でレッサーパンダの飼育が始まった。",
+      "exampleKo": "동물원에서 레서판다 사육이 시작되었다.",
+      "meaningEn": "breeding, raising animals"
+    },
+    {
+      "word": "支援",
+      "yomi": "しえん",
+      "pos": "名詞",
+      "meaning": "지원",
+      "category": "N1 명사",
+      "example": "被災者への支援が各地から集まった。",
+      "exampleKo": "피재자에 대한 지원이 각지에서 모였다.",
+      "meaningEn": "support, aid"
+    },
+    {
+      "word": "色彩",
+      "yomi": "しきさい",
+      "pos": "名詞",
+      "meaning": "색채",
+      "category": "N1 명사",
+      "example": "この画家の作品は鮮やかな色彩で知られる。",
+      "exampleKo": "이 화가의 작품은 선명한 색채로 알려져 있다.",
+      "meaningEn": "color, hue"
+    },
+    {
+      "word": "仕組み",
+      "yomi": "しくみ",
+      "pos": "名詞",
+      "meaning": "구조, 원리",
+      "category": "N1 명사",
+      "example": "経済の仕組みを分かりやすく解説した。",
+      "exampleKo": "경제의 원리를 알기 쉽게 해설했다.",
+      "meaningEn": "structure, mechanism"
+    },
+    {
+      "word": "刺激",
+      "yomi": "しげき",
+      "pos": "名詞",
+      "meaning": "자극",
+      "category": "N1 명사",
+      "example": "新しい環境が彼女に良い刺激を与えた。",
+      "exampleKo": "새로운 환경이 그녀에게 좋은 자극을 주었다.",
+      "meaningEn": "stimulus, incentive"
+    },
+    {
+      "word": "自粛",
+      "yomi": "じしゅく",
+      "pos": "名詞",
+      "meaning": "자숙, 자제",
+      "category": "N1 명사",
+      "example": "感染予防のためイベントを自粛した。",
+      "exampleKo": "감염 예방을 위해 이벤트를 자제했다.",
+      "meaningEn": "self-restraint, voluntary refrain"
+    },
+    {
+      "word": "支障",
+      "yomi": "ししょう",
+      "pos": "名詞",
+      "meaning": "지장",
+      "category": "N1 명사",
+      "example": "けがのせいで仕事に支障が出た。",
+      "exampleKo": "부상 때문에 일에 지장이 생겼다.",
+      "meaningEn": "obstacle, hindrance"
+    },
+    {
+      "word": "姿勢",
+      "yomi": "しせい",
+      "pos": "名詞",
+      "meaning": "자세",
+      "category": "N1 명사",
+      "example": "正しい姿勢を保つことが健康に大切だ。",
+      "exampleKo": "바른 자세를 유지하는 것이 건강에 중요하다.",
+      "meaningEn": "posture, attitude"
+    },
+    {
+      "word": "自尊心",
+      "yomi": "じそんしん",
+      "pos": "名詞",
+      "meaning": "자존심",
+      "category": "N1 명사",
+      "example": "批判を受けて自尊心が傷ついた。",
+      "exampleKo": "비판을 받아 자존심이 상처 입었다.",
+      "meaningEn": "self-esteem, pride"
+    },
+    {
+      "word": "実権",
+      "yomi": "じっけん",
+      "pos": "名詞",
+      "meaning": "실권",
+      "category": "N1 명사",
+      "example": "組織の実権を握るのは表の代表ではない。",
+      "exampleKo": "조직의 실권을 쥐고 있는 것은 표면의 대표가 아니다.",
+      "meaningEn": "real power, actual authority"
+    },
+    {
+      "word": "実情",
+      "yomi": "じつじょう",
+      "pos": "名詞",
+      "meaning": "실정, 실제 사정",
+      "category": "N1 명사",
+      "example": "現場の実情を把握してから判断する。",
+      "exampleKo": "현장의 실정을 파악하고 나서 판단한다.",
+      "meaningEn": "actual situation, real state"
+    },
+    {
+      "word": "実態",
+      "yomi": "じったい",
+      "pos": "名詞",
+      "meaning": "실태",
+      "category": "N1 명사",
+      "example": "調査によって問題の実態が明らかになった。",
+      "exampleKo": "조사에 의해 문제의 실태가 밝혀졌다.",
+      "meaningEn": "actual condition, reality"
+    },
+    {
+      "word": "実費",
+      "yomi": "じっぴ",
+      "pos": "名詞",
+      "meaning": "실비, 실제 비용",
+      "category": "N1 명사",
+      "example": "交通費は実費で精算してください。",
+      "exampleKo": "교통비는 실비로 정산해 주세요.",
+      "meaningEn": "actual cost, out-of-pocket expense"
+    },
+    {
+      "word": "執筆",
+      "yomi": "しっぴつ",
+      "pos": "名詞",
+      "meaning": "집필",
+      "category": "N1 명사",
+      "example": "彼は小説の執筆に専念するため会社を辞めた。",
+      "exampleKo": "그는 소설 집필에 전념하기 위해 회사를 그만뒀다.",
+      "meaningEn": "writing, authorship"
+    },
+    {
+      "word": "紙幣",
+      "yomi": "しへい",
+      "pos": "名詞",
+      "meaning": "지폐",
+      "category": "N1 명사",
+      "example": "旧紙幣が新デザインに切り替わった。",
+      "exampleKo": "구권 지폐가 새 디자인으로 바뀌었다.",
+      "meaningEn": "banknote, paper money"
+    },
+    {
+      "word": "志望",
+      "yomi": "しぼう",
+      "pos": "名詞",
+      "meaning": "지망",
+      "category": "N1 명사",
+      "example": "彼女の志望は医者になることだ。",
+      "exampleKo": "그녀의 지망은 의사가 되는 것이다.",
+      "meaningEn": "aspiration, ambition"
+    },
+    {
+      "word": "釈明",
+      "yomi": "しゃくめい",
+      "pos": "名詞",
+      "meaning": "석명, 해명",
+      "category": "N1 명사",
+      "example": "記者会見で失言の釈明を行った。",
+      "exampleKo": "기자 회견에서 실언의 해명을 했다.",
+      "meaningEn": "explanation, justification"
+    },
+    {
+      "word": "遮断",
+      "yomi": "しゃだん",
+      "pos": "名詞",
+      "meaning": "차단",
+      "category": "N1 명사",
+      "example": "騒音を遮断するために防音壁を設置した。",
+      "exampleKo": "소음을 차단하기 위해 방음벽을 설치했다.",
+      "meaningEn": "interception, blocking"
+    },
+    {
+      "word": "収穫",
+      "yomi": "しゅうかく",
+      "pos": "名詞",
+      "meaning": "수확",
+      "category": "N1 명사",
+      "example": "今年の米の収穫量は例年より多かった。",
+      "exampleKo": "올해 쌀 수확량은 예년보다 많았다.",
+      "meaningEn": "harvest, yield"
+    },
+    {
+      "word": "修飾",
+      "yomi": "しゅうしょく",
+      "pos": "名詞",
+      "meaning": "수식",
+      "category": "N1 명사",
+      "example": "文章に不要な修飾語が多すぎる。",
+      "exampleKo": "문장에 불필요한 수식어가 너무 많다.",
+      "meaningEn": "modification, decoration"
+    },
+    {
+      "word": "収束",
+      "yomi": "しゅうそく",
+      "pos": "名詞",
+      "meaning": "수습, 해결",
+      "category": "N1 명사",
+      "example": "長引いた紛争がようやく収束した。",
+      "exampleKo": "길어진 분쟁이 드디어 수습되었다.",
+      "meaningEn": "convergence, resolution"
+    },
+    {
+      "word": "従属",
+      "yomi": "じゅうぞく",
+      "pos": "名詞",
+      "meaning": "종속",
+      "category": "N1 명사",
+      "example": "弱小国が大国に従属する構造が続いた。",
+      "exampleKo": "약소국이 강대국에 종속되는 구조가 계속되었다.",
+      "meaningEn": "subordination, dependency"
+    },
+    {
+      "word": "渋滞",
+      "yomi": "じゅうたい",
+      "pos": "名詞",
+      "meaning": "정체, 흐름이 밀림",
+      "category": "N1 명사",
+      "example": "事故の影響で高速道路が渋滞した。",
+      "exampleKo": "사고 영향으로 고속도로가 정체되었다.",
+      "meaningEn": "traffic jam, congestion"
+    },
+    {
+      "word": "修復",
+      "yomi": "しゅうふく",
+      "pos": "名詞",
+      "meaning": "수복, 복원",
+      "category": "N1 명사",
+      "example": "破損した文化財の修復作業が進んでいる。",
+      "exampleKo": "파손된 문화재 복원 작업이 진행되고 있다.",
+      "meaningEn": "restoration, repair"
+    },
+    {
+      "word": "従来",
+      "yomi": "じゅうらい",
+      "pos": "名詞",
+      "meaning": "종래, 기존",
+      "category": "N1 명사",
+      "example": "従来の方法では対応できない新たな課題だ。",
+      "exampleKo": "기존의 방법으로는 대응할 수 없는 새로운 과제다.",
+      "meaningEn": "conventional, traditional"
+    },
+    {
+      "word": "主催",
+      "yomi": "しゅさい",
+      "pos": "名詞",
+      "meaning": "주최",
+      "category": "N1 명사",
+      "example": "市が主催するマラソン大会が開催された。",
+      "exampleKo": "시가 주최하는 마라톤 대회가 개최되었다.",
+      "meaningEn": "sponsorship, hosting"
+    },
+    {
+      "word": "趣旨",
+      "yomi": "しゅし",
+      "pos": "名詞",
+      "meaning": "취지",
+      "category": "N1 명사",
+      "example": "プロジェクトの趣旨を全員に説明した。",
+      "exampleKo": "프로젝트의 취지를 전원에게 설명했다.",
+      "meaningEn": "purpose, intent"
+    },
+    {
+      "word": "受賞",
+      "yomi": "じゅしょう",
+      "pos": "名詞",
+      "meaning": "수상",
+      "category": "N1 명사",
+      "example": "彼女は最優秀賞を受賞して喜んだ。",
+      "exampleKo": "그녀는 최우수상을 수상하여 기뻐했다.",
+      "meaningEn": "winning a prize, award"
+    },
+    {
+      "word": "出没",
+      "yomi": "しゅつぼつ",
+      "pos": "名詞",
+      "meaning": "출몰",
+      "category": "N1 명사",
+      "example": "その地域でクマの出没が相次いでいる。",
+      "exampleKo": "그 지역에서 곰의 출몰이 잇따르고 있다.",
+      "meaningEn": "appearance, haunting"
+    },
+    {
+      "word": "樹木",
+      "yomi": "じゅもく",
+      "pos": "名詞",
+      "meaning": "수목, 큰 나무",
+      "category": "N1 명사",
+      "example": "公園の樹木が紅葉して美しかった。",
+      "exampleKo": "공원의 수목이 단풍이 들어 아름다웠다.",
+      "meaningEn": "trees, timber"
+    },
+    {
+      "word": "需要",
+      "yomi": "じゅよう",
+      "pos": "名詞",
+      "meaning": "수요",
+      "category": "N1 명사",
+      "example": "環境に優しい製品への需要が高まっている。",
+      "exampleKo": "환경친화적 제품에 대한 수요가 높아지고 있다.",
+      "meaningEn": "demand, need"
+    },
+    {
+      "word": "順応",
+      "yomi": "じゅんのう",
+      "pos": "名詞",
+      "meaning": "순응",
+      "category": "N1 명사",
+      "example": "新しい環境への順応に時間がかかった。",
+      "exampleKo": "새로운 환경에 대한 순응에 시간이 걸렸다.",
+      "meaningEn": "adaptation, adjustment"
+    },
+    {
+      "word": "照会",
+      "yomi": "しょうかい",
+      "pos": "名詞",
+      "meaning": "조회, 확인",
+      "category": "N1 명사",
+      "example": "在庫の状況を担当部署に照会した。",
+      "exampleKo": "재고 상황을 담당 부서에 조회했다.",
+      "meaningEn": "inquiry, reference"
+    },
+    {
+      "word": "衝撃",
+      "yomi": "しょうげき",
+      "pos": "名詞",
+      "meaning": "충격",
+      "category": "N1 명사",
+      "example": "その訃報は業界に大きな衝撃を与えた。",
+      "exampleKo": "그 부보는 업계에 큰 충격을 주었다.",
+      "meaningEn": "shock, impact"
+    },
+    {
+      "word": "証拠",
+      "yomi": "しょうこ",
+      "pos": "名詞",
+      "meaning": "증거",
+      "category": "N1 명사",
+      "example": "裁判では明確な証拠が必要だ。",
+      "exampleKo": "재판에서는 명확한 증거가 필요하다.",
+      "meaningEn": "evidence, proof"
+    },
+    {
+      "word": "承諾",
+      "yomi": "しょうだく",
+      "pos": "名詞",
+      "meaning": "승낙",
+      "category": "N1 명사",
+      "example": "条件付きで承諾の返事をもらった。",
+      "exampleKo": "조건부로 승낙 답변을 받았다.",
+      "meaningEn": "consent, approval"
+    },
+    {
+      "word": "冗談",
+      "yomi": "じょうだん",
+      "pos": "名詞",
+      "meaning": "농담",
+      "category": "N1 명사",
+      "example": "彼の冗談に全員が笑い声を上げた。",
+      "exampleKo": "그의 농담에 전원이 웃음을 터뜨렸다.",
+      "meaningEn": "joke, jest"
+    },
+    {
+      "word": "承認",
+      "yomi": "しょうにん",
+      "pos": "名詞",
+      "meaning": "승인",
+      "category": "N1 명사",
+      "example": "計画は上層部の承認を得て実行された。",
+      "exampleKo": "계획은 상층부의 승인을 얻어 실행되었다.",
+      "meaningEn": "recognition, approval"
+    },
+    {
+      "word": "蒸発",
+      "yomi": "じょうはつ",
+      "pos": "名詞",
+      "meaning": "증발",
+      "category": "N1 명사",
+      "example": "湖の水が長い干ばつで蒸発した。",
+      "exampleKo": "호수의 물이 긴 가뭄으로 증발했다.",
+      "meaningEn": "evaporation, disappearance"
+    },
+    {
+      "word": "奨励",
+      "yomi": "しょうれい",
+      "pos": "名詞",
+      "meaning": "장려",
+      "category": "N1 명사",
+      "example": "政府は再生可能エネルギーの導入を奨励した。",
+      "exampleKo": "정부는 재생 가능 에너지 도입을 장려했다.",
+      "meaningEn": "encouragement, promotion"
+    },
+    {
+      "word": "触発",
+      "yomi": "しょくはつ",
+      "pos": "名詞",
+      "meaning": "촉발",
+      "category": "N1 명사",
+      "example": "彼の作品に触発されて創作を始めた。",
+      "exampleKo": "그의 작품에 촉발되어 창작을 시작했다.",
+      "meaningEn": "inspiration, triggering"
+    },
+    {
+      "word": "処置",
+      "yomi": "しょち",
+      "pos": "名詞",
+      "meaning": "처치, 조치",
+      "category": "N1 명사",
+      "example": "医師が迅速に応急処置を施した。",
+      "exampleKo": "의사가 신속하게 응급 처치를 베풀었다.",
+      "meaningEn": "treatment, measure"
+    },
+    {
+      "word": "署名",
+      "yomi": "しょめい",
+      "pos": "名詞",
+      "meaning": "서명",
+      "category": "N1 명사",
+      "example": "請願書に1万人以上の署名が集まった。",
+      "exampleKo": "청원서에 1만 명 이상의 서명이 모였다.",
+      "meaningEn": "signature, signing"
+    },
+    {
+      "word": "親善",
+      "yomi": "しんぜん",
+      "pos": "名詞",
+      "meaning": "친선",
+      "category": "N1 명사",
+      "example": "親善大使として各国を訪問した。",
+      "exampleKo": "친선 대사로서 각국을 방문했다.",
+      "meaningEn": "goodwill, friendship"
+    },
+    {
+      "word": "進呈",
+      "yomi": "しんてい",
+      "pos": "名詞",
+      "meaning": "증정",
+      "category": "N1 명사",
+      "example": "ご来場の方全員に記念品を進呈します。",
+      "exampleKo": "방문하신 모든 분께 기념품을 증정합니다.",
+      "meaningEn": "presentation, gift"
+    },
+    {
+      "word": "辛抱",
+      "yomi": "しんぼう",
+      "pos": "名詞",
+      "meaning": "인내",
+      "category": "N1 명사",
+      "example": "辛抱強く待ち続けた甲斐があった。",
+      "exampleKo": "인내심 있게 계속 기다린 보람이 있었다.",
+      "meaningEn": "patience, endurance"
+    },
+    {
+      "word": "人脈",
+      "yomi": "じんみゃく",
+      "pos": "名詞",
+      "meaning": "인맥",
+      "category": "N1 명사",
+      "example": "豊富な人脈が彼のビジネスを支えている。",
+      "exampleKo": "풍부한 인맥이 그의 비즈니스를 지탱하고 있다.",
+      "meaningEn": "personal connections, network"
+    },
+    {
+      "word": "遂行",
+      "yomi": "すいこう",
+      "pos": "名詞",
+      "meaning": "수행, 완수",
+      "category": "N1 명사",
+      "example": "困難な任務を最後まで遂行した。",
+      "exampleKo": "어려운 임무를 끝까지 수행했다.",
+      "meaningEn": "execution, accomplishment"
+    },
+    {
+      "word": "衰退",
+      "yomi": "すいたい",
+      "pos": "名詞",
+      "meaning": "쇠퇴",
+      "category": "N1 명사",
+      "example": "産業の衰退が地域経済に影響を与えた。",
+      "exampleKo": "산업의 쇠퇴가 지역 경제에 영향을 주었다.",
+      "meaningEn": "decline, decay"
+    },
+    {
+      "word": "推理",
+      "yomi": "すいり",
+      "pos": "名詞",
+      "meaning": "추리",
+      "category": "N1 명사",
+      "example": "彼は鋭い推理で犯人を特定した。",
+      "exampleKo": "그는 예리한 추리로 범인을 특정했다.",
+      "meaningEn": "reasoning, deduction"
+    },
+    {
+      "word": "術",
+      "yomi": "すべ",
+      "pos": "名詞",
+      "meaning": "방법",
+      "category": "N1 명사",
+      "example": "彼にはこの状況を切り抜ける術がない。",
+      "exampleKo": "그에게는 이 상황을 헤쳐나갈 방법이 없다.",
+      "meaningEn": "means, art, trick"
+    },
+    {
+      "word": "摂取",
+      "yomi": "せっしゅ",
+      "pos": "名詞",
+      "meaning": "섭취",
+      "category": "N1 명사",
+      "example": "バランスよく栄養を摂取することが大切だ。",
+      "exampleKo": "균형 있게 영양을 섭취하는 것이 중요하다.",
+      "meaningEn": "intake, ingestion"
+    },
+    {
+      "word": "選出",
+      "yomi": "せんしゅつ",
+      "pos": "名詞",
+      "meaning": "선출",
+      "category": "N1 명사",
+      "example": "投票によって新しい代表が選出された。",
+      "exampleKo": "투표에 의해 새로운 대표가 선출되었다.",
+      "meaningEn": "election, selection"
+    },
+    {
+      "word": "先方",
+      "yomi": "せんぽう",
+      "pos": "名詞",
+      "meaning": "상대, 상대방",
+      "category": "N1 명사",
+      "example": "先方の都合に合わせて日程を調整した。",
+      "exampleKo": "상대방 사정에 맞춰 일정을 조정했다.",
+      "meaningEn": "the other party, them"
+    },
+    {
+      "word": "全滅",
+      "yomi": "ぜんめつ",
+      "pos": "名詞",
+      "meaning": "전멸",
+      "category": "N1 명사",
+      "example": "害虫が農作物を全滅させてしまった。",
+      "exampleKo": "해충이 농작물을 전멸시켜버렸다.",
+      "meaningEn": "annihilation, total destruction"
+    },
+    {
+      "word": "装飾",
+      "yomi": "そうしょく",
+      "pos": "名詞",
+      "meaning": "장식",
+      "category": "N1 명사",
+      "example": "会場を花で装飾して歓迎の準備をした。",
+      "exampleKo": "회장을 꽃으로 장식하여 환영 준비를 했다.",
+      "meaningEn": "decoration, ornament"
+    },
+    {
+      "word": "相場",
+      "yomi": "そうば",
+      "pos": "名詞",
+      "meaning": "시세, 가격의 추세",
+      "category": "N1 명사",
+      "example": "原油の相場が急激に変動した。",
+      "exampleKo": "원유의 시세가 급격히 변동했다.",
+      "meaningEn": "market price, common practice"
+    },
+    {
+      "word": "束縛",
+      "yomi": "そくばく",
+      "pos": "名詞",
+      "meaning": "속박",
+      "category": "N1 명사",
+      "example": "過度な束縛は人間関係を壊す。",
+      "exampleKo": "과도한 속박은 인간관계를 망친다.",
+      "meaningEn": "restraint, restriction"
+    },
+    {
+      "word": "素質",
+      "yomi": "そしつ",
+      "pos": "名詞",
+      "meaning": "소질",
+      "category": "N1 명사",
+      "example": "彼には音楽家としての素質がある。",
+      "exampleKo": "그에게는 음악가로서의 소질이 있다.",
+      "meaningEn": "nature, potential"
+    },
+    {
+      "word": "素振り",
+      "yomi": "そぶり",
+      "pos": "名詞",
+      "meaning": "거동, 기색",
+      "category": "N1 명사",
+      "example": "彼は知っているはずなのに知らない素振りをした。",
+      "exampleKo": "그는 알고 있을 텐데도 모르는 기색을 했다.",
+      "meaningEn": "behavior, appearance"
+    },
+    {
+      "word": "大家",
+      "yomi": "たいか",
+      "pos": "名詞",
+      "meaning": "대가, 권위자",
+      "category": "N1 명사",
+      "example": "彼はその分野における大家として尊敬されている。",
+      "exampleKo": "그는 그 분야에서 대가로 존경받고 있다.",
+      "meaningEn": "master, great authority"
+    },
+    {
+      "word": "対比",
+      "yomi": "たいひ",
+      "pos": "名詞",
+      "meaning": "대비",
+      "category": "N1 명사",
+      "example": "二つの作品を対比させて分析した。",
+      "exampleKo": "두 작품을 대비시켜 분석했다.",
+      "meaningEn": "contrast, comparison"
+    },
+    {
+      "word": "対面",
+      "yomi": "たいめん",
+      "pos": "名詞",
+      "meaning": "대면",
+      "category": "N1 명사",
+      "example": "久しぶりに直接対面して話し合った。",
+      "exampleKo": "오랜만에 직접 대면하여 이야기를 나눴다.",
+      "meaningEn": "meeting face to face"
+    },
+    {
+      "word": "打開",
+      "yomi": "だかい",
+      "pos": "名詞",
+      "meaning": "타개",
+      "category": "N1 명사",
+      "example": "長引く交渉の打開策を模索した。",
+      "exampleKo": "길어지는 교섭의 타개책을 모색했다.",
+      "meaningEn": "breakthrough, resolution"
+    },
+    {
+      "word": "多岐",
+      "yomi": "たき",
+      "pos": "名詞",
+      "meaning": "다기, 다방면",
+      "category": "N1 명사",
+      "example": "彼女の活動は多岐にわたっている。",
+      "exampleKo": "그녀의 활동은 다방면에 걸쳐 있다.",
+      "meaningEn": "many branches, diverse fields"
+    },
+    {
+      "word": "妥協",
+      "yomi": "だきょう",
+      "pos": "名詞",
+      "meaning": "타협",
+      "category": "N1 명사",
+      "example": "お互いに妥協して合意に達した。",
+      "exampleKo": "서로 타협하여 합의에 이르렀다.",
+      "meaningEn": "compromise, concession"
+    },
+    {
+      "word": "魂",
+      "yomi": "たましい",
+      "pos": "名詞",
+      "meaning": "영혼",
+      "category": "N1 명사",
+      "example": "その演技には魂が込められていた。",
+      "exampleKo": "그 연기에는 혼이 담겨 있었다.",
+      "meaningEn": "soul, spirit"
+    },
+    {
+      "word": "探知",
+      "yomi": "たんち",
+      "pos": "名詞",
+      "meaning": "탐지",
+      "category": "N1 명사",
+      "example": "センサーが異常を探知して警報が鳴った。",
+      "exampleKo": "센서가 이상을 감지하여 경보가 울렸다.",
+      "meaningEn": "detection, scouting"
+    },
+    {
+      "word": "断念",
+      "yomi": "だんねん",
+      "pos": "名詞",
+      "meaning": "단념",
+      "category": "N1 명사",
+      "example": "悪天候で登山を断念した。",
+      "exampleKo": "악천후로 등산을 단념했다.",
+      "meaningEn": "abandonment, giving up"
+    },
+    {
+      "word": "蓄積",
+      "yomi": "ちくせき",
+      "pos": "名詞",
+      "meaning": "축적",
+      "category": "N1 명사",
+      "example": "長年の経験の蓄積が今の実力を作った。",
+      "exampleKo": "오랜 경험의 축적이 지금의 실력을 만들었다.",
+      "meaningEn": "accumulation, buildup"
+    },
+    {
+      "word": "中枢",
+      "yomi": "ちゅうすう",
+      "pos": "名詞",
+      "meaning": "중추, 핵심",
+      "category": "N1 명사",
+      "example": "首都は国家の政治的中枢だ。",
+      "exampleKo": "수도는 국가의 정치적 중추다.",
+      "meaningEn": "center, nucleus"
+    },
+    {
+      "word": "抽選",
+      "yomi": "ちゅうせん",
+      "pos": "名詞",
+      "meaning": "추첨",
+      "category": "N1 명사",
+      "example": "抽選で当選者が決まった。",
+      "exampleKo": "추첨으로 당첨자가 결정되었다.",
+      "meaningEn": "lottery, drawing"
+    },
+    {
+      "word": "重宝",
+      "yomi": "ちょうほう",
+      "pos": "名詞",
+      "meaning": "애용",
+      "category": "N1 명사",
+      "example": "このツールは日々の作業で重宝している。",
+      "exampleKo": "이 툴은 일상 작업에서 애용하고 있다.",
+      "meaningEn": "handy, useful item"
+    },
+    {
+      "word": "陳列",
+      "yomi": "ちんれつ",
+      "pos": "名詞",
+      "meaning": "진열",
+      "category": "N1 명사",
+      "example": "新商品が店頭に陳列された。",
+      "exampleKo": "신상품이 매장에 진열되었다.",
+      "meaningEn": "display, exhibition"
+    },
+    {
+      "word": "痛感",
+      "yomi": "つうかん",
+      "pos": "名詞",
+      "meaning": "통감",
+      "category": "N1 명사",
+      "example": "失敗して準備の大切さを痛感した。",
+      "exampleKo": "실패하고 준비의 중요성을 통감했다.",
+      "meaningEn": "keen sense, strong feeling"
+    },
+    {
+      "word": "提起",
+      "yomi": "ていき",
+      "pos": "名詞",
+      "meaning": "제기",
+      "category": "N1 명사",
+      "example": "会議で新たな問題が提起された。",
+      "exampleKo": "회의에서 새로운 문제가 제기되었다.",
+      "meaningEn": "raising, filing"
+    },
+    {
+      "word": "停滞",
+      "yomi": "ていたい",
+      "pos": "名詞",
+      "meaning": "정체, 진행이 더딤",
+      "category": "N1 명사",
+      "example": "景気停滞が長引いて企業業績が悪化した。",
+      "exampleKo": "경기 정체가 길어져 기업 실적이 악화되었다.",
+      "meaningEn": "stagnation, standstill"
+    },
+    {
+      "word": "手際",
+      "yomi": "てぎわ",
+      "pos": "名詞",
+      "meaning": "일처리 솜씨, 수완",
+      "category": "N1 명사",
+      "example": "彼女は手際よく料理を仕上げた。",
+      "exampleKo": "그녀는 능숙하게 요리를 완성했다.",
+      "meaningEn": "skill, dexterity"
+    },
+    {
+      "word": "手間",
+      "yomi": "てま",
+      "pos": "名詞",
+      "meaning": "수고",
+      "category": "N1 명사",
+      "example": "手間をかけて丁寧に仕上げた作品だ。",
+      "exampleKo": "수고를 들여 정성껏 완성한 작품이다.",
+      "meaningEn": "time and effort, labor"
+    },
+    {
+      "word": "手分け",
+      "yomi": "てわけ",
+      "pos": "名詞",
+      "meaning": "분담",
+      "category": "N1 명사",
+      "example": "作業を手分けして効率よく進めた。",
+      "exampleKo": "작업을 분담하여 효율적으로 진행했다.",
+      "meaningEn": "division of labor"
+    },
+    {
+      "word": "展開",
+      "yomi": "てんかい",
+      "pos": "名詞",
+      "meaning": "전개",
+      "category": "N1 명사",
+      "example": "物語は予想外の展開を見せた。",
+      "exampleKo": "이야기는 예상 밖의 전개를 보였다.",
+      "meaningEn": "development, deployment"
+    },
+    {
+      "word": "転換",
+      "yomi": "てんかん",
+      "pos": "名詞",
+      "meaning": "전환",
+      "category": "N1 명사",
+      "example": "キャリアの転換を決意して新しい道に進んだ。",
+      "exampleKo": "커리어 전환을 결심하여 새로운 길로 나아갔다.",
+      "meaningEn": "conversion, shift"
+    },
+    {
+      "word": "添付",
+      "yomi": "てんぷ",
+      "pos": "名詞",
+      "meaning": "첨부",
+      "category": "N1 명사",
+      "example": "メールに資料を添付して送った。",
+      "exampleKo": "메일에 자료를 첨부하여 보냈다.",
+      "meaningEn": "attachment, appendage"
+    },
+    {
+      "word": "踏襲",
+      "yomi": "とうしゅう",
+      "pos": "名詞",
+      "meaning": "답습",
+      "category": "N1 명사",
+      "example": "前任者の方針をそのまま踏襲した。",
+      "exampleKo": "전임자의 방침을 그대로 답습했다.",
+      "meaningEn": "following, adherence"
+    },
+    {
+      "word": "同調",
+      "yomi": "どうちょう",
+      "pos": "名詞",
+      "meaning": "동조",
+      "category": "N1 명사",
+      "example": "彼は多数派の意見に同調した。",
+      "exampleKo": "그는 다수파의 의견에 동조했다.",
+      "meaningEn": "sympathy, conformity"
+    },
+    {
+      "word": "同伴",
+      "yomi": "どうはん",
+      "pos": "名詞",
+      "meaning": "동반",
+      "category": "N1 명사",
+      "example": "パートナーを同伴して式典に参加した。",
+      "exampleKo": "파트너를 동반하여 식전에 참가했다.",
+      "meaningEn": "accompaniment, company"
+    },
+    {
+      "word": "当面",
+      "yomi": "とうめん",
+      "pos": "名詞",
+      "meaning": "당면, 당분간",
+      "category": "N1 명사",
+      "example": "当面の問題として資金調達が急がれる。",
+      "exampleKo": "당면 문제로 자금 조달이 시급하다.",
+      "meaningEn": "for the present, urgent"
+    },
+    {
+      "word": "督促",
+      "yomi": "とくそく",
+      "pos": "名詞",
+      "meaning": "독촉",
+      "category": "N1 명사",
+      "example": "支払いが遅れたため督促状が届いた。",
+      "exampleKo": "지불이 늦어져 독촉장이 도착했다.",
+      "meaningEn": "urging, pressing"
+    },
+    {
+      "word": "難点",
+      "yomi": "なんてん",
+      "pos": "名詞",
+      "meaning": "곤란한 점",
+      "category": "N1 명사",
+      "example": "この計画の唯一の難点はコストだ。",
+      "exampleKo": "이 계획의 유일한 난점은 비용이다.",
+      "meaningEn": "difficulty, weak point"
+    },
+    {
+      "word": "日夜",
+      "yomi": "にちや",
+      "pos": "名詞",
+      "meaning": "밤낮, 늘",
+      "category": "N1 명사",
+      "example": "研究者は日夜実験を続けた。",
+      "exampleKo": "연구자는 밤낮 없이 실험을 계속했다.",
+      "meaningEn": "day and night, always"
+    },
+    {
+      "word": "念願",
+      "yomi": "ねんがん",
+      "pos": "名詞",
+      "meaning": "염원",
+      "category": "N1 명사",
+      "example": "念願だった世界旅行をついに実現した。",
+      "exampleKo": "염원하던 세계 여행을 드디어 실현했다.",
+      "meaningEn": "desire, wish"
+    },
+    {
+      "word": "念頭",
+      "yomi": "ねんとう",
+      "pos": "名詞",
+      "meaning": "염두, 마음속",
+      "category": "N1 명사",
+      "example": "常に安全を念頭に置いて作業する。",
+      "exampleKo": "항상 안전을 염두에 두고 작업한다.",
+      "meaningEn": "mind, thought"
+    },
+    {
+      "word": "把握",
+      "yomi": "はあく",
+      "pos": "名詞",
+      "meaning": "파악",
+      "category": "N1 명사",
+      "example": "状況を正確に把握してから行動する。",
+      "exampleKo": "상황을 정확히 파악하고 나서 행동한다.",
+      "meaningEn": "grasp, understanding"
+    },
+    {
+      "word": "配属",
+      "yomi": "はいぞく",
+      "pos": "名詞",
+      "meaning": "배속",
+      "category": "N1 명사",
+      "example": "新入社員が各部署に配属された。",
+      "exampleKo": "신입 사원이 각 부서에 배속되었다.",
+      "meaningEn": "assignment, posting"
+    },
+    {
+      "word": "波及",
+      "yomi": "はきゅう",
+      "pos": "名詞",
+      "meaning": "파급",
+      "category": "N1 명사",
+      "example": "その問題の影響が広く波及した。",
+      "exampleKo": "그 문제의 영향이 넓게 파급되었다.",
+      "meaningEn": "spread, ripple effect"
+    },
+    {
+      "word": "暴露",
+      "yomi": "ばくろ",
+      "pos": "名詞",
+      "meaning": "폭로",
+      "category": "N1 명사",
+      "example": "内部告発により不正が暴露された。",
+      "exampleKo": "내부 고발에 의해 부정이 폭로되었다.",
+      "meaningEn": "exposure, revelation"
+    },
+    {
+      "word": "破損",
+      "yomi": "はそん",
+      "pos": "名詞",
+      "meaning": "파손",
+      "category": "N1 명사",
+      "example": "輸送中に荷物が破損してしまった。",
+      "exampleKo": "운송 중에 짐이 파손되어버렸다.",
+      "meaningEn": "damage, breakage"
+    },
+    {
+      "word": "発掘",
+      "yomi": "はっくつ",
+      "pos": "名詞",
+      "meaning": "발굴",
+      "category": "N1 명사",
+      "example": "若い才能を発掘するためのオーディションだ。",
+      "exampleKo": "젊은 재능을 발굴하기 위한 오디션이다.",
+      "meaningEn": "excavation, discovery"
+    },
+    {
+      "word": "抜群",
+      "yomi": "ばつぐん",
+      "pos": "名詞",
+      "meaning": "발군, 매우 뛰어남",
+      "category": "N1 명사",
+      "example": "彼女の記憶力は抜群だ。",
+      "exampleKo": "그녀의 기억력은 발군이다.",
+      "meaningEn": "outstanding, exceptional"
+    },
+    {
+      "word": "抜粋",
+      "yomi": "ばっすい",
+      "pos": "名詞",
+      "meaning": "발췌",
+      "category": "N1 명사",
+      "example": "長い報告書から重要な部分を抜粋した。",
+      "exampleKo": "긴 보고서에서 중요한 부분을 발췌했다.",
+      "meaningEn": "extract, excerpt"
+    },
+    {
+      "word": "繁盛",
+      "yomi": "はんじょう",
+      "pos": "名詞",
+      "meaning": "번창",
+      "category": "N1 명사",
+      "example": "開店当日から店は大繁盛した。",
+      "exampleKo": "개점 당일부터 가게가 대번창했다.",
+      "meaningEn": "prosperity, thriving"
+    },
+    {
+      "word": "判別",
+      "yomi": "はんべつ",
+      "pos": "名詞",
+      "meaning": "판별",
+      "category": "N1 명사",
+      "example": "専門家でも判別が難しい偽物だった。",
+      "exampleKo": "전문가도 판별이 어려운 가짜였다.",
+      "meaningEn": "distinction, identification"
+    },
+    {
+      "word": "人込み",
+      "yomi": "ひとごみ",
+      "pos": "名詞",
+      "meaning": "혼잡, 북새통",
+      "category": "N1 명사",
+      "example": "クリスマスの人込みを避けて早めに帰った。",
+      "exampleKo": "크리스마스 혼잡을 피해 일찍 귀가했다.",
+      "meaningEn": "crowd, throng"
+    },
+    {
+      "word": "人質",
+      "yomi": "ひとじち",
+      "pos": "名詞",
+      "meaning": "인질",
+      "category": "N1 명사",
+      "example": "誘拐犯は人質解放の条件として身代金を要求した。",
+      "exampleKo": "납치범은 인질 해방 조건으로 몸값을 요구했다.",
+      "meaningEn": "hostage"
+    },
+    {
+      "word": "人手",
+      "yomi": "ひとで",
+      "pos": "名詞",
+      "meaning": "일손, 노동력",
+      "category": "N1 명사",
+      "example": "収穫期には人手が足りなくなる。",
+      "exampleKo": "수확기에는 일손이 부족해진다.",
+      "meaningEn": "labor, manpower"
+    },
+    {
+      "word": "人波",
+      "yomi": "ひとなみ",
+      "pos": "名詞",
+      "meaning": "인파",
+      "category": "N1 명사",
+      "example": "駅前の人波をかき分けて進んだ。",
+      "exampleKo": "역 앞의 인파를 헤치고 나아갔다.",
+      "meaningEn": "wave of people, crowd"
+    },
+    {
+      "word": "皮肉",
+      "yomi": "ひにく",
+      "pos": "名詞",
+      "meaning": "비꼼, 빈정거림",
+      "category": "N1 명사",
+      "example": "皮肉な言い方で批判するのは良くない。",
+      "exampleKo": "빈정거리는 말투로 비판하는 것은 좋지 않다.",
+      "meaningEn": "irony, sarcasm"
+    },
+    {
+      "word": "貧富",
+      "yomi": "ひんぷ",
+      "pos": "名詞",
+      "meaning": "빈부",
+      "category": "N1 명사",
+      "example": "貧富の格差が社会問題となっている。",
+      "exampleKo": "빈부 격차가 사회 문제가 되고 있다.",
+      "meaningEn": "rich and poor, wealth disparity"
+    },
+    {
+      "word": "普及",
+      "yomi": "ふきゅう",
+      "pos": "名詞",
+      "meaning": "보급",
+      "category": "N1 명사",
+      "example": "スマートフォンの普及で生活が変わった。",
+      "exampleKo": "스마트폰의 보급으로 생활이 바뀌었다.",
+      "meaningEn": "spread, popularization"
+    },
+    {
+      "word": "不況",
+      "yomi": "ふきょう",
+      "pos": "名詞",
+      "meaning": "불황",
+      "category": "N1 명사",
+      "example": "不況の影響で多くの企業が業績を悪化させた。",
+      "exampleKo": "불황의 영향으로 많은 기업이 실적을 악화시켰다.",
+      "meaningEn": "recession, slump"
+    },
+    {
+      "word": "富豪",
+      "yomi": "ふごう",
+      "pos": "名詞",
+      "meaning": "부호",
+      "category": "N1 명사",
+      "example": "彼は若くして地元の富豪として知られた。",
+      "exampleKo": "그는 젊어서 지역 부호로 알려졌다.",
+      "meaningEn": "wealthy person, millionaire"
+    },
+    {
+      "word": "不順",
+      "yomi": "ふじゅん",
+      "pos": "名詞",
+      "meaning": "불순, 순탄치 못함",
+      "category": "N1 명사",
+      "example": "天候不順が続いて農作物に被害が出た。",
+      "exampleKo": "이상 날씨가 계속되어 농작물에 피해가 났다.",
+      "meaningEn": "irregularity, unfavorable"
+    },
+    {
+      "word": "侮辱",
+      "yomi": "ぶじょく",
+      "pos": "名詞",
+      "meaning": "모욕",
+      "category": "N1 명사",
+      "example": "公の場で侮辱を受けて怒りを感じた。",
+      "exampleKo": "공개 장소에서 모욕을 당해 분노를 느꼈다.",
+      "meaningEn": "insult, humiliation"
+    },
+    {
+      "word": "復旧",
+      "yomi": "ふっきゅう",
+      "pos": "名詞",
+      "meaning": "복구",
+      "category": "N1 명사",
+      "example": "災害後、インフラの復旧に全力を尽くした。",
+      "exampleKo": "재해 후 인프라 복구에 전력을 다했다.",
+      "meaningEn": "recovery, restoration"
+    },
+    {
+      "word": "復興",
+      "yomi": "ふっこう",
+      "pos": "名詞",
+      "meaning": "부흥",
+      "category": "N1 명사",
+      "example": "震災から10年で街は見事に復興した。",
+      "exampleKo": "진재로부터 10년 만에 도시는 훌륭하게 부흥했다.",
+      "meaningEn": "revival, reconstruction"
+    },
+    {
+      "word": "赴任",
+      "yomi": "ふにん",
+      "pos": "名詞",
+      "meaning": "부임",
+      "category": "N1 명사",
+      "example": "海外の支社に赴任することになった。",
+      "exampleKo": "해외 지사로 부임하게 되었다.",
+      "meaningEn": "taking up a post"
+    },
+    {
+      "word": "不備",
+      "yomi": "ふび",
+      "pos": "名詞",
+      "meaning": "미비, 불충분함",
+      "category": "N1 명사",
+      "example": "申請書類に不備があって受理されなかった。",
+      "exampleKo": "신청 서류에 미비가 있어 수리되지 않았다.",
+      "meaningEn": "insufficiency, deficiency"
+    },
+    {
+      "word": "憤慨",
+      "yomi": "ふんがい",
+      "pos": "名詞",
+      "meaning": "분개",
+      "category": "N1 명사",
+      "example": "不公平な決定に多くの人が憤慨した。",
+      "exampleKo": "불공평한 결정에 많은 사람이 분개했다.",
+      "meaningEn": "indignation, resentment"
+    },
+    {
+      "word": "分担",
+      "yomi": "ぶんたん",
+      "pos": "名詞",
+      "meaning": "분담",
+      "category": "N1 명사",
+      "example": "家事を家族で分担して効率よく行う。",
+      "exampleKo": "가사를 가족이 분담하여 효율적으로 한다.",
+      "meaningEn": "sharing, division"
+    },
+    {
+      "word": "弁解",
+      "yomi": "べんかい",
+      "pos": "名詞",
+      "meaning": "변명",
+      "category": "N1 명사",
+      "example": "ミスの弁解よりも再発防止策が大切だ。",
+      "exampleKo": "실수의 변명보다 재발 방지책이 중요하다.",
+      "meaningEn": "excuse, justification"
+    },
+    {
+      "word": "便宜",
+      "yomi": "べんぎ",
+      "pos": "名詞",
+      "meaning": "편의",
+      "category": "N1 명사",
+      "example": "利用者の便宜を図って窓口を増やした。",
+      "exampleKo": "이용자의 편의를 도모하여 창구를 늘렸다.",
+      "meaningEn": "convenience, accommodation"
+    },
+    {
+      "word": "変遷",
+      "yomi": "へんせん",
+      "pos": "名詞",
+      "meaning": "변천",
+      "category": "N1 명사",
+      "example": "時代の変遷とともに価値観も変化した。",
+      "exampleKo": "시대의 변천과 함께 가치관도 변화했다.",
+      "meaningEn": "transition, change"
+    },
+    {
+      "word": "妨害",
+      "yomi": "ぼうがい",
+      "pos": "名詞",
+      "meaning": "방해",
+      "category": "N1 명사",
+      "example": "相手チームの選手が妨害行為で退場した。",
+      "exampleKo": "상대 팀 선수가 방해 행위로 퇴장당했다.",
+      "meaningEn": "interference, obstruction"
+    },
+    {
+      "word": "発足",
+      "yomi": "ほっそく",
+      "pos": "名詞",
+      "meaning": "발족, 출범",
+      "category": "N1 명사",
+      "example": "新しい委員会が正式に発足した。",
+      "exampleKo": "새로운 위원회가 공식적으로 발족했다.",
+      "meaningEn": "launch, inauguration"
+    },
+    {
+      "word": "発端",
+      "yomi": "ほったん",
+      "pos": "名詞",
+      "meaning": "발단",
+      "category": "N1 명사",
+      "example": "小さな誤解が大きな問題の発端となった。",
+      "exampleKo": "작은 오해가 큰 문제의 발단이 되었다.",
+      "meaningEn": "origin, beginning"
+    },
+    {
+      "word": "没頭",
+      "yomi": "ぼっとう",
+      "pos": "名詞",
+      "meaning": "몰두",
+      "category": "N1 명사",
+      "example": "彼は仕事に没頭して食事も忘れた。",
+      "exampleKo": "그는 일에 몰두하여 식사도 잊었다.",
+      "meaningEn": "absorption, immersion"
+    },
+    {
+      "word": "本筋",
+      "yomi": "ほんすじ",
+      "pos": "名詞",
+      "meaning": "본론, 본줄거리",
+      "category": "N1 명사",
+      "example": "話が脱線して本筋に戻れなくなった。",
+      "exampleKo": "이야기가 脱線하여 본론으로 돌아오지 못했다.",
+      "meaningEn": "main point, main story"
+    },
+    {
+      "word": "本音",
+      "yomi": "ほんね",
+      "pos": "名詞",
+      "meaning": "본심, 속내",
+      "category": "N1 명사",
+      "example": "彼の本音を引き出すのは難しい。",
+      "exampleKo": "그의 본심을 끌어내기는 어렵다.",
+      "meaningEn": "true feelings, real intention"
+    },
+    {
+      "word": "摩擦",
+      "yomi": "まさつ",
+      "pos": "名詞",
+      "meaning": "마찰",
+      "category": "N1 명사",
+      "example": "二国間の貿易摩擦が深刻化している。",
+      "exampleKo": "양국 간의 무역 마찰이 심각해지고 있다.",
+      "meaningEn": "friction, conflict"
+    },
+    {
+      "word": "満喫",
+      "yomi": "まんきつ",
+      "pos": "名詞",
+      "meaning": "만끽",
+      "category": "N1 명사",
+      "example": "温泉旅行でのんびりとした時間を満喫した。",
+      "exampleKo": "온천 여행에서 여유로운 시간을 만끽했다.",
+      "meaningEn": "full enjoyment"
+    },
+    {
+      "word": "見込み",
+      "yomi": "みこみ",
+      "pos": "名詞",
+      "meaning": "예상, 전망",
+      "category": "N1 명사",
+      "example": "回復の見込みが薄いと医師に言われた。",
+      "exampleKo": "회복 전망이 얇다고 의사에게 말을 들었다.",
+      "meaningEn": "prospect, expectation"
+    },
+    {
+      "word": "密集",
+      "yomi": "みっしゅう",
+      "pos": "名詞",
+      "meaning": "밀집",
+      "category": "N1 명사",
+      "example": "都市部は人口が密集している。",
+      "exampleKo": "도시 지역은 인구가 밀집해 있다.",
+      "meaningEn": "dense crowd, concentration"
+    },
+    {
+      "word": "見通し",
+      "yomi": "みとおし",
+      "pos": "名詞",
+      "meaning": "전망",
+      "category": "N1 명사",
+      "example": "業績回復の見通しは明るいとされている。",
+      "exampleKo": "실적 회복 전망은 밝다고 여겨지고 있다.",
+      "meaningEn": "outlook, prospect"
+    },
+    {
+      "word": "無実",
+      "yomi": "むじつ",
+      "pos": "名詞",
+      "meaning": "억울함, 무고함",
+      "category": "N1 명사",
+      "example": "長年の捜査で彼の無実が証明された。",
+      "exampleKo": "오랜 수사로 그의 무고함이 증명되었다.",
+      "meaningEn": "innocence, false charge"
+    },
+    {
+      "word": "矛盾",
+      "yomi": "むじゅん",
+      "pos": "名詞",
+      "meaning": "모순",
+      "category": "N1 명사",
+      "example": "彼の発言には多くの矛盾が含まれていた。",
+      "exampleKo": "그의 발언에는 많은 모순이 포함되어 있었다.",
+      "meaningEn": "contradiction, inconsistency"
+    },
+    {
+      "word": "無償",
+      "yomi": "むしょう",
+      "pos": "Name詞",
+      "meaning": "무상, 무료",
+      "category": "N1 명사",
+      "example": "被災地に無償で食料を提供した。",
+      "exampleKo": "피재지에 무상으로 식료를 제공했다.",
+      "meaningEn": "free of charge, unpaid"
+    },
+    {
+      "word": "無念",
+      "yomi": "むねん",
+      "pos": "名詞",
+      "meaning": "원통함, 분함",
+      "category": "N1 명사",
+      "example": "決勝で敗れた選手は無念の表情を見せた。",
+      "exampleKo": "결승에서 진 선수는 원통한 표정을 보였다.",
+      "meaningEn": "regret, frustration"
+    },
+    {
+      "word": "明暗",
+      "yomi": "めいあん",
+      "pos": "名詞",
+      "meaning": "명암",
+      "category": "N1 명사",
+      "example": "今期の決算は明暗が分かれた。",
+      "exampleKo": "이번 기 결산은 명암이 나뉘었다.",
+      "meaningEn": "light and dark, contrast"
+    },
+    {
+      "word": "名誉",
+      "yomi": "めいよ",
+      "pos": "名詞",
+      "meaning": "명예",
+      "category": "N1 명사",
+      "example": "彼女は長年の功績により名誉賞を受けた。",
+      "exampleKo": "그녀는 오랜 공적으로 명예상을 받았다.",
+      "meaningEn": "honor, reputation"
+    },
+    {
+      "word": "目先",
+      "yomi": "めさき",
+      "pos": "名詞",
+      "meaning": "눈앞, 당장",
+      "category": "N1 명사",
+      "example": "目先の利益だけを追うのは危険だ。",
+      "exampleKo": "눈앞의 이익만 좇는 것은 위험하다.",
+      "meaningEn": "immediate, before one's eyes"
+    },
+    {
+      "word": "面識",
+      "yomi": "めんしき",
+      "pos": "名詞",
+      "meaning": "면식, 안면",
+      "category": "N1 명사",
+      "example": "彼とは以前から面識があった。",
+      "exampleKo": "그와는 예전부터 면식이 있었다.",
+      "meaningEn": "acquaintance, familiarity"
+    },
+    {
+      "word": "免除",
+      "yomi": "めんじょ",
+      "pos": "名詞",
+      "meaning": "면제",
+      "category": "N1 명사",
+      "example": "条件を満たせば手数料が免除される。",
+      "exampleKo": "조건을 충족하면 수수료가 면제된다.",
+      "meaningEn": "exemption, waiver"
+    },
+    {
+      "word": "猛反対",
+      "yomi": "もうはんたい",
+      "pos": "名詞",
+      "meaning": "맹렬한 반대",
+      "category": "N1 명사",
+      "example": "計画には家族全員が猛反対した。",
+      "exampleKo": "계획에는 가족 모두가 맹렬히 반대했다.",
+      "meaningEn": "fierce opposition"
+    },
+    {
+      "word": "網羅",
+      "yomi": "もうら",
+      "pos": "名詞",
+      "meaning": "망라, 모두 포함",
+      "category": "N1 명사",
+      "example": "この辞典は専門用語を網羅している。",
+      "exampleKo": "이 사전은 전문 용어를 망라하고 있다.",
+      "meaningEn": "coverage, comprehensive inclusion"
+    },
+    {
+      "word": "躍進",
+      "yomi": "やくしん",
+      "pos": "名詞",
+      "meaning": "약진",
+      "category": "N1 명사",
+      "example": "新興企業が業界で急速に躍進した。",
+      "exampleKo": "신흥 기업이 업계에서 급속히 약진했다.",
+      "meaningEn": "leap, rapid advance"
+    },
+    {
+      "word": "由緒",
+      "yomi": "ゆいしょ",
+      "pos": "名詞",
+      "meaning": "유서, 내력",
+      "category": "N1 명사",
+      "example": "由緒ある神社で伝統的な祭りが行われた。",
+      "exampleKo": "유서 깊은 신사에서 전통적인 축제가 열렸다.",
+      "meaningEn": "history, origin"
+    },
+    {
+      "word": "優位",
+      "yomi": "ゆうい",
+      "pos": "名詞",
+      "meaning": "우위",
+      "category": "N1 명사",
+      "example": "技術面で他社に対して優位に立っている。",
+      "exampleKo": "기술 면에서 타사에 대해 우위에 있다.",
+      "meaningEn": "superiority, advantage"
+    },
+    {
+      "word": "融合",
+      "yomi": "ゆうごう",
+      "pos": "名詞",
+      "meaning": "융합",
+      "category": "N1 명사",
+      "example": "異なる文化が融合して新しい芸術が生まれた。",
+      "exampleKo": "서로 다른 문화가 융합하여 새로운 예술이 탄생했다.",
+      "meaningEn": "fusion, integration"
+    },
+    {
+      "word": "有数",
+      "yomi": "ゆうすう",
+      "pos": "名詞",
+      "meaning": "유수, 굴지, 손꼽음",
+      "category": "N1 명사",
+      "example": "この都市は世界有数の金融センターだ。",
+      "exampleKo": "이 도시는 세계 굴지의 금융 센터다.",
+      "meaningEn": "leading, prominent"
+    },
+    {
+      "word": "融通",
+      "yomi": "ゆうずう",
+      "pos": "名詞",
+      "meaning": "융통",
+      "category": "N1 명사",
+      "example": "融通の利かない規則が現場を困らせている。",
+      "exampleKo": "융통성 없는 규칙이 현장을 곤란하게 하고 있다.",
+      "meaningEn": "flexibility, accommodation"
+    },
+    {
+      "word": "油断",
+      "yomi": "ゆだん",
+      "pos": "名詞",
+      "meaning": "방심",
+      "category": "N1 명사",
+      "example": "油断した隙に相手に先を越された。",
+      "exampleKo": "방심한 틈에 상대에게 선수를 빼앗겼다.",
+      "meaningEn": "carelessness, inattention"
+    },
+    {
+      "word": "抑制",
+      "yomi": "よくせい",
+      "pos": "名詞",
+      "meaning": "억제",
+      "category": "N1 명사",
+      "example": "怒りを抑制して冷静に対応した。",
+      "exampleKo": "분노를 억제하고 냉정하게 대응했다.",
+      "meaningEn": "suppression, restraint"
+    },
+    {
+      "word": "予断",
+      "yomi": "よだん",
+      "pos": "名詞",
+      "meaning": "예단, 예측",
+      "category": "N1 명사",
+      "example": "状況は予断を許さない展開になっている。",
+      "exampleKo": "상황은 예단을 허용치 않는 전개가 되고 있다.",
+      "meaningEn": "prediction, prejudgment"
+    },
+    {
+      "word": "落胆",
+      "yomi": "らくたん",
+      "pos": "名詞",
+      "meaning": "낙담",
+      "category": "N1 명사",
+      "example": "期待していた結果が出ず落胆した。",
+      "exampleKo": "기대하던 결과가 나오지 않아 낙담했다.",
+      "meaningEn": "disappointment, discouragement"
+    },
+    {
+      "word": "酪農",
+      "yomi": "らくのう",
+      "pos": "名詞",
+      "meaning": "낙농",
+      "category": "N1 명사",
+      "example": "北海道は日本有数の酪農地帯だ。",
+      "exampleKo": "홋카이도는 일본 굴지의 낙농 지대다.",
+      "meaningEn": "dairy farming"
+    },
+    {
+      "word": "濫用",
+      "yomi": "らんよう",
+      "pos": "名詞",
+      "meaning": "남용",
+      "category": "N1 명사",
+      "example": "権力の濫用が国民の信頼を失わせた。",
+      "exampleKo": "권력의 남용이 국민의 신뢰를 잃게 만들었다.",
+      "meaningEn": "abuse, misuse"
+    },
+    {
+      "word": "隣接",
+      "yomi": "りんせつ",
+      "pos": "名詞",
+      "meaning": "인접",
+      "category": "N1 명사",
+      "example": "空港に隣接した商業施設が開業した。",
+      "exampleKo": "공항에 인접한 상업 시설이 개업했다.",
+      "meaningEn": "adjacency, proximity"
+    },
+    {
+      "word": "連携",
+      "yomi": "れんけい",
+      "pos": "名詞",
+      "meaning": "연계, 제휴",
+      "category": "N1 명사",
+      "example": "関係機関が連携して問題に取り組んだ。",
+      "exampleKo": "관련 기관이 연계하여 문제에 대응했다.",
+      "meaningEn": "cooperation, coordination"
+    },
+    {
+      "word": "朗報",
+      "yomi": "ろうほう",
+      "pos": "名詞",
+      "meaning": "낭보, 희소식",
+      "category": "N1 명사",
+      "example": "長く待ち望んでいた朗報がついに届いた。",
+      "exampleKo": "오래 고대하던 낭보가 드디어 도착했다.",
+      "meaningEn": "good news, glad tidings"
+    },
+    {
+      "word": "和解",
+      "yomi": "わかい",
+      "pos": "名詞",
+      "meaning": "화해",
+      "category": "N1 명사",
+      "example": "長年の対立の末、両者はようやく和解した。",
+      "exampleKo": "오랜 대립 끝에 양측은 드디어 화해했다.",
+      "meaningEn": "reconciliation, settlement"
+    },
+    {
+      "word": "枠",
+      "yomi": "わく",
+      "pos": "名詞",
+      "meaning": "틀, 테두리",
+      "category": "N1 명사",
+      "example": "予算の枠を超えた支出は認められない。",
+      "exampleKo": "예산 범위를 초과한 지출은 인정되지 않는다.",
+      "meaningEn": "frame, limit, quota"
+    },
+    {
+      "word": "予め",
+      "yomi": "あらかじめ",
+      "pos": "副詞",
+      "meaning": "미리",
+      "category": "N1 부사",
+      "example": "予め連絡しておけばトラブルを防げた。",
+      "exampleKo": "미리 연락해두었다면 트러블을 막을 수 있었다.",
+      "meaningEn": "in advance, beforehand"
+    },
+    {
+      "word": "改めて",
+      "yomi": "あらためて",
+      "pos": "副詞",
+      "meaning": "다시, 새삼스럽게",
+      "category": "N1 부사",
+      "example": "改めてお礼を申し上げます。",
+      "exampleKo": "다시 한번 감사 말씀을 드립니다.",
+      "meaningEn": "again, anew, formally"
+    },
+    {
+      "word": "案の定",
+      "yomi": "あんのじょう",
+      "pos": "副詞",
+      "meaning": "역시, 예상대로",
+      "category": "N1 부사",
+      "example": "案の定、彼は約束の時間に遅れてきた。",
+      "exampleKo": "역시 예상대로 그는 약속 시간에 늦게 왔다.",
+      "meaningEn": "as expected, sure enough"
+    },
+    {
+      "word": "生き生き",
+      "yomi": "いきいき",
+      "pos": "副詞",
+      "meaning": "생기가 넘치는 모양",
+      "category": "N1 부사",
+      "example": "子供たちが生き生きと遊んでいる。",
+      "exampleKo": "아이들이 생기 넘치게 놀고 있다.",
+      "meaningEn": "vividly, with vitality"
+    },
+    {
+      "word": "一律に",
+      "yomi": "いちりつに",
+      "pos": "副詞",
+      "meaning": "일률적으로",
+      "category": "N1 부사",
+      "example": "全員を一律に評価するのは難しい。",
+      "exampleKo": "전원을 일률적으로 평가하기는 어렵다.",
+      "meaningEn": "uniformly, across the board"
+    },
+    {
+      "word": "今更",
+      "yomi": "いまさら",
+      "pos": "副詞",
+      "meaning": "이제 와서, 새삼스럽게",
+      "category": "N1 부사",
+      "example": "今更後悔しても手遅れだ。",
+      "exampleKo": "이제 와서 후회해도 늦었다.",
+      "meaningEn": "now, at this late stage"
+    },
+    {
+      "word": "急遽",
+      "yomi": "きゅうきょ",
+      "pos": "副詞",
+      "meaning": "급거, 갑작스럽게",
+      "category": "N1 부사",
+      "example": "急遽、会議の日程が変更になった。",
+      "exampleKo": "갑자기 회의 일정이 변경되었다.",
+      "meaningEn": "hurriedly, suddenly"
+    },
+    {
+      "word": "極力",
+      "yomi": "きょくりょく",
+      "pos": "副詞",
+      "meaning": "극력, 힘껏",
+      "category": "N1 부사",
+      "example": "極力、環境に負荷をかけない生活を心がける。",
+      "exampleKo": "힘껏 환경에 부담을 주지 않는 생활을 유의한다.",
+      "meaningEn": "as much as possible"
+    },
+    {
+      "word": "極めて",
+      "yomi": "きわめて",
+      "pos": "副詞",
+      "meaning": "매우, 지극히",
+      "category": "N1 부사",
+      "example": "その実験の成功率は極めて低い。",
+      "exampleKo": "그 실험의 성공률은 매우 낮다.",
+      "meaningEn": "extremely, highly"
+    },
+    {
+      "word": "殊に",
+      "yomi": "ことに",
+      "pos": "副詞",
+      "meaning": "특히",
+      "category": "N1 부사",
+      "example": "今年は殊に夏が暑かった。",
+      "exampleKo": "올해는 특히 여름이 더웠다.",
+      "meaningEn": "especially, particularly"
+    },
+    {
+      "word": "早急に",
+      "yomi": "さっきゅうに",
+      "pos": "副詞",
+      "meaning": "조속히",
+      "category": "N1 부사",
+      "example": "早急に対策を講じる必要がある。",
+      "exampleKo": "조속히 대책을 강구할 필요가 있다.",
+      "meaningEn": "promptly, urgently"
+    },
+    {
+      "word": "強いて",
+      "yomi": "しいて",
+      "pos": "副詞",
+      "meaning": "억지로, 무리해서",
+      "category": "N1 부사",
+      "example": "強いて言えば、もう少し早ければよかった。",
+      "exampleKo": "억지로 말하자면 조금 더 일렀으면 좋았을 것이다.",
+      "meaningEn": "forcibly, if pressed"
+    },
+    {
+      "word": "随時",
+      "yomi": "ずいじ",
+      "pos": "副詞",
+      "meaning": "수시로, 그때그때",
+      "category": "N1 부사",
+      "example": "質問は随時受け付けております。",
+      "exampleKo": "질문은 수시로 받고 있습니다.",
+      "meaningEn": "at any time, as needed"
+    },
+    {
+      "word": "総じて",
+      "yomi": "そうじて",
+      "pos": "副詞",
+      "meaning": "대체로, 전반적으로",
+      "category": "N1 부사",
+      "example": "今年の業績は総じて良好だった。",
+      "exampleKo": "올해의 실적은 대체로 양호했다.",
+      "meaningEn": "generally, on the whole"
+    },
+    {
+      "word": "即刻",
+      "yomi": "そっこく",
+      "pos": "副詞",
+      "meaning": "즉각, 즉시",
+      "category": "N1 부사",
+      "example": "規則違反が発覚し即刻処分された。",
+      "exampleKo": "규칙 위반이 발각되어 즉각 처분되었다.",
+      "meaningEn": "immediately, at once"
+    },
+    {
+      "word": "到底",
+      "yomi": "とうてい",
+      "pos": "副詞",
+      "meaning": "도저히",
+      "category": "N1 부사",
+      "example": "この量は一人では到底食べきれない。",
+      "exampleKo": "이 양은 혼자서는 도저히 다 먹을 수 없다.",
+      "meaningEn": "by no means, utterly"
+    },
+    {
+      "word": "取り分け",
+      "yomi": "とりわけ",
+      "pos": "副詞",
+      "meaning": "특히",
+      "category": "N1 부사",
+      "example": "取り分け、この地域の冬は厳しい。",
+      "exampleKo": "특히 이 지역의 겨울은 혹독하다.",
+      "meaningEn": "especially, above all"
+    },
+    {
+      "word": "漠然と",
+      "yomi": "ばくぜんと",
+      "pos": "副詞",
+      "meaning": "막연하게",
+      "category": "N1 부사",
+      "example": "将来について漠然とした不安を抱えている。",
+      "exampleKo": "장래에 대해 막연한 불안을 안고 있다.",
+      "meaningEn": "vaguely, obscurely"
+    },
+    {
+      "word": "人一倍",
+      "yomi": "ひといちばい",
+      "pos": "副詞",
+      "meaning": "남달리, 남보다 갑절",
+      "category": "N1 부사",
+      "example": "彼女は人一倍努力して成功した。",
+      "exampleKo": "그녀는 남달리 노력하여 성공했다.",
+      "meaningEn": "more than others, doubly"
+    },
+    {
+      "word": "不意に",
+      "yomi": "ふいに",
+      "pos": "副詞",
+      "meaning": "갑자기",
+      "category": "N1 부사",
+      "example": "不意に名前を呼ばれて驚いた。",
+      "exampleKo": "갑자기 이름이 불려 깜짝 놀랐다.",
+      "meaningEn": "suddenly, unexpectedly"
+    },
+    {
+      "word": "無性に",
+      "yomi": "むしょうに",
+      "pos": "副詞",
+      "meaning": "몹시, 공연히, 까닭 없이",
+      "category": "N1 부사",
+      "example": "無性に辛い物が食べたくなった。",
+      "exampleKo": "몹시 매운 것이 먹고 싶어졌다.",
+      "meaningEn": "intensely, irrationally"
+    },
+    {
+      "word": "専ら",
+      "yomi": "もっぱら",
+      "pos": "副詞",
+      "meaning": "오로지, 한결같이",
+      "category": "N1 부사",
+      "example": "彼は専ら読書に時間を費やしている。",
+      "exampleKo": "그는 오로지 독서에 시간을 쏟고 있다.",
+      "meaningEn": "solely, exclusively"
+    },
+    {
+      "word": "歴然と",
+      "yomi": "れきぜんと",
+      "pos": "副詞",
+      "meaning": "역연히, 또렷하게",
+      "category": "N1 부사",
+      "example": "二人の実力差は歴然としていた。",
+      "exampleKo": "두 사람의 실력 차이는 또렷했다.",
+      "meaningEn": "clearly, evidently"
+    },
+    {
+      "word": "人出",
+      "yomi": "ひとで",
+      "pos": "名詞",
+      "meaning": "인파, 밖으로 나온 사람들",
+      "category": "N1 명사",
+      "example": "花火大会には大勢の人出があった。",
+      "exampleKo": "불꽃놀이 대회에는 많은 인파가 나왔다.",
+      "meaningEn": "turnout, crowd"
+    }
+  ]
+}
